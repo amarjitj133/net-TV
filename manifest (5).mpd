@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Broadpeak BkS350 Origin Packager (version=1.11.16-26430) -->
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" type="dynamic" availabilityStartTime="1970-01-01T00:00:00Z" publishTime="2025-05-13T16:23:19.467238Z" minimumUpdatePeriod="PT2S" timeShiftBufferDepth="PT30S" maxSegmentDuration="PT3S" minBufferTime="PT2S" profiles="urn:mpeg:dash:profile:isoff-live:2011">
+  <Period id="1" start="PT0S">
+    <BaseURL>dash/</BaseURL>
+    <AdaptationSet id="1" group="1" contentType="audio" segmentAlignment="true" audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000" initialization="Zeebanglacinema-$RepresentationID$.dash" media="Zeebanglacinema-$RepresentationID$-$Time$.dash">
+        <!-- 2025-05-13T16:22:44.773145Z / 1747153364 - 2025-05-13T16:23:16.773145Z -->
+        <SegmentTimeline>
+          <S t="83863361509111" d="96256" r="1"/>
+          <S d="95232"/>
+          <S d="96256" r="2"/>
+          <S d="95232"/>
+          <S d="96256" r="2"/>
+          <S d="95232"/>
+          <S d="96256" r="2"/>
+          <S d="95232"/>
+          <S d="96256"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_208482_und=208000" bandwidth="208000">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="2" contentType="video" par="16:9" minBandwidth="247600" maxBandwidth="2137600" maxWidth="854" maxHeight="480" segmentAlignment="true" sar="1:1" frameRate="25" mimeType="video/mp4" startWithSAP="1">
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="FBBFD9CE-4BBE-4D81-8B16-DF7DFE89F05B">
+      </ContentProtection>
+      <SupplementalProperty schemeIdUri="urn:mpeg:mpegB:cicp:ColourPrimaries" value="5"/>
+      <SupplementalProperty schemeIdUri="urn:mpeg:mpegB:cicp:MatrixCoefficients" value="6"/>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="600" initialization="Zeebanglacinema-$RepresentationID$.dash" media="Zeebanglacinema-$RepresentationID$-$Time$.dash">
+        <!-- 2025-05-13T16:22:46.763333Z / 1747153366 - 2025-05-13T16:23:16.763333Z -->
+        <SegmentTimeline>
+          <S t="1048292020058" d="1200" r="14"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=247600" bandwidth="247600" width="256" height="144" codecs="avc1.4D400C" scanType="progressive">
+      </Representation>
+      <Representation id="video=562400" bandwidth="562400" width="426" height="240" codecs="avc1.4D4015" scanType="progressive">
+      </Representation>
+      <Representation id="video=1087600" bandwidth="1087600" width="640" height="360" codecs="avc1.4D401E" scanType="progressive">
+      </Representation>
+      <Representation id="video=2137600" bandwidth="2137600" width="854" height="480" codecs="avc1.4D401E" scanType="progressive">
+      </Representation>
+    </AdaptationSet>
+  </Period>
+  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:http-iso:2014" value="https://time.akamai.com/?iso"/>
+</MPD>
