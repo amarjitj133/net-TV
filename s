@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=854x480
+http://nettv.fwh.is/hls/Zeebanglahd-video=1087600.m3u8
