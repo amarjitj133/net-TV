@@ -1,5 +1,4 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd?hdnts=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=2500000,RESOLUTION=1280x720
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd?hdnts=
+ #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=854x480
+http://nettv.fwh.is/hls/Zeebanglahd-video=1087600.m3u8
