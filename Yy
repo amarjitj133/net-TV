@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<b:template xmlns:b="http://www.google.com/2005/gml/b">
+  <b:skin><![CDATA[
+    body {
+      background: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+  ]]></b:skin>
+
+  <b:includable id="main" var="top">
+    <html>
+      <head>
+        <title></title>
+      </head>
+      <body>
+      </body>
+    </html>
+  </b:includable>
+</b:template>
