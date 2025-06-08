@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+
+#EXTINF:-1 tvg-id="1373" group-title="Jiostar" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1749381519~exp=1749467919~acl=/*~hmac=9a69d247a5264ea58e86cac3ac8d3e58da8fa05c1ec164645bdc0598aa2b1abe"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1749381519~exp=1749467919~acl=/*~hmac=9a69d247a5264ea58e86cac3ac8d3e58da8fa05c1ec164645bdc0598aa2b1abe&xxx=%7Ccookie=__hdnea__=st=1749381519~exp=1749467919~acl=/*~hmac=9a69d247a5264ea58e86cac3ac8d3e58da8fa05c1ec164645bdc0598aa2b1abe
