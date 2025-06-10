@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Broadpeak BkS350 Origin Packager (version=1.12.11-29361) -->
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" type="dynamic" availabilityStartTime="1970-01-01T00:00:00Z" publishTime="2025-06-10T15:19:07.788375Z" minimumUpdatePeriod="PT2S" timeShiftBufferDepth="PT1M" maxSegmentDuration="PT3S" minBufferTime="PT2S" profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
+  <Period id="1" start="PT0S">
+    <BaseURL>https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/output/</BaseURL>
+    <AdaptationSet id="1" group="1" contentType="audio" lang="hi" segmentAlignment="true" audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="687CFA6D-3164-5A91-BA3C-38A9ACDFAC7C">
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+      </ContentProtection>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37">
+      </InbandEventStream>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000" initialization="Star_Bharat_BTS-$RepresentationID$.dash?__hdnea__=st=1749554483~exp=1749640883~acl=/*~hmac=75c06515f2d5fb303b15ddfce162b1e7d7290fee1db1af6b634e5592ee064f22" media="Star_Bharat_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1749554483~exp=1749640883~acl=/*~hmac=75c06515f2d5fb303b15ddfce162b1e7d7290fee1db1af6b634e5592ee064f22">
+        <!-- 2025-06-10T15:18:03.029312Z / 1749568683 - 2025-06-10T15:19:05.024000Z -->
+        <SegmentTimeline>
+          <S t="83979296785407" d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98834_hin=98800" bandwidth="98800">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="2" contentType="video" par="16:9" minBandwidth="1680400" maxBandwidth="2702400" segmentAlignment="true" width="1024" height="576" sar="1:1" frameRate="25" mimeType="video/mp4" codecs="avc1.64001F" startWithSAP="1">
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="687CFA6D-3164-5A91-BA3C-38A9ACDFAC7C">
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+      </ContentProtection>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37">
+      </InbandEventStream>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="600" initialization="Star_Bharat_BTS-$RepresentationID$.dash?__hdnea__=st=1749554483~exp=1749640883~acl=/*~hmac=75c06515f2d5fb303b15ddfce162b1e7d7290fee1db1af6b634e5592ee064f22" media="Star_Bharat_BTS-$RepresentationID$-$Time$.dash?__hdnea__=st=1749554483~exp=1749640883~acl=/*~hmac=75c06515f2d5fb303b15ddfce162b1e7d7290fee1db1af6b634e5592ee064f22">
+        <!-- 2025-06-10T15:18:05.008333Z / 1749568685 - 2025-06-10T15:19:05.008333Z -->
+        <SegmentTimeline>
+          <S t="1049741211005" d="1200" r="29"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=1680400" bandwidth="1680400" scanType="progressive">
+      </Representation>
+      <Representation id="video=2702400" bandwidth="2702400" scanType="progressive">
+      </Representation>
+    </AdaptationSet>
+  </Period>
+  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2025-06-10T15:19:09.154000Z"/>
+</MPD>
