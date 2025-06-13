@@ -1,0 +1,731 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="india-today" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png",india-today
+https://yupptv.fredflix.fun/stream/india-today/master.m3u8
+
+#EXTINF:-1 tvg-id="republic-tv" tvg-name="republic-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png",republic-tv
+https://yupptv.fredflix.fun/stream/republic-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="wion" tvg-name="wion" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gyztbi.png",wion
+https://yupptv.fredflix.fun/stream/wion/master.m3u8
+
+#EXTINF:-1 tvg-id="dd-india" tvg-name="dd-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dd-india.png",dd-india
+https://yupptv.fredflix.fun/stream/dd-india/master.m3u8
+
+#EXTINF:-1 tvg-id="ndtv-24x7" tvg-name="ndtv-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png",ndtv-24x7
+https://yupptv.fredflix.fun/stream/ndtv-24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="mirror-now" tvg-name="mirror-now" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png",mirror-now
+https://yupptv.fredflix.fun/stream/mirror-now/master.m3u8
+
+#EXTINF:-1 tvg-id="news9live" tvg-name="news9live" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kcaslr.png",news9live
+https://yupptv.fredflix.fun/stream/news9live/master.m3u8
+
+#EXTINF:-1 tvg-id="hornbill-tv" tvg-name="hornbill-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hornbill-tv.png",hornbill-tv
+https://yupptv.fredflix.fun/stream/hornbill-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="ndtv-profit" tvg-name="ndtv-profit" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ddsklc.png",ndtv-profit
+https://yupptv.fredflix.fun/stream/ndtv-profit/master.m3u8
+
+#EXTINF:-1 tvg-id="oan-plus" tvg-name="oan-plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rohnbg.png",oan-plus
+https://yupptv.fredflix.fun/stream/oan-plus/master.m3u8
+
+#EXTINF:-1 tvg-id="voa-news" tvg-name="voa-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rgzrjw.png",voa-news
+https://yupptv.fredflix.fun/stream/voa-news/master.m3u8
+
+#EXTINF:-1 tvg-id="cvr-english-news" tvg-name="cvr-english-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exdirq.png",cvr-english-news
+https://yupptv.fredflix.fun/stream/cvr-english-news/master.m3u8
+
+#EXTINF:-1 tvg-id="aaj-tak" tvg-name="aaj-tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png",aaj-tak
+https://yupptv.fredflix.fun/stream/aaj-tak/master.m3u8
+
+#EXTINF:-1 tvg-id="republic-bharat" tvg-name="republic-bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnnuqu.png",republic-bharat
+https://yupptv.fredflix.fun/stream/republic-bharat/master.m3u8
+
+#EXTINF:-1 tvg-id="tv9-bharatvarsh" tvg-name="tv9-bharatvarsh" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhgutv.png",tv9-bharatvarsh
+https://yupptv.fredflix.fun/stream/tv9-bharatvarsh/master.m3u8
+
+#EXTINF:-1 tvg-id="india-tv" tvg-name="india-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png",india-tv
+https://yupptv.fredflix.fun/stream/india-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="times-now-navbharat" tvg-name="times-now-navbharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/times-now-navbharat.png",times-now-navbharat
+https://yupptv.fredflix.fun/stream/times-now-navbharat/master.m3u8
+
+#EXTINF:-1 tvg-id="abp-news" tvg-name="abp-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mphzpu.png",abp-news
+https://yupptv.fredflix.fun/stream/abp-news/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-news" tvg-name="zee-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png",zee-news
+https://yupptv.fredflix.fun/stream/zee-news/master.m3u8
+
+#EXTINF:-1 tvg-id="ndtv-india" tvg-name="ndtv-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png",ndtv-india
+https://yupptv.fredflix.fun/stream/ndtv-india/master.m3u8
+
+#EXTINF:-1 tvg-id="good-news-today" tvg-name="good-news-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png",good-news-today
+https://yupptv.fredflix.fun/stream/good-news-today/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-hindustan" tvg-name="zee-hindustan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png",zee-hindustan
+https://yupptv.fredflix.fun/stream/zee-hindustan/master.m3u8
+
+#EXTINF:-1 tvg-id="hindi-khabar" tvg-name="hindi-khabar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.png",hindi-khabar
+https://yupptv.fredflix.fun/stream/hindi-khabar/master.m3u8
+
+#EXTINF:-1 tvg-id="sudarshan-news" tvg-name="sudarshan-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sudarshan-news.png",sudarshan-news
+https://yupptv.fredflix.fun/stream/sudarshan-news/master.m3u8
+
+#EXTINF:-1 tvg-id="ndtv-mp" tvg-name="ndtv-mp" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png",ndtv-mp
+https://yupptv.fredflix.fun/stream/ndtv-mp/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-name="zee-bihar-jharkhand" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zjjkih.png",zee-bihar-jharkhand
+https://yupptv.fredflix.fun/stream/zee-bihar-jharkhand/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-delhi-ncr-haryana" tvg-name="zee-delhi-ncr-haryana" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png",zee-delhi-ncr-haryana
+https://yupptv.fredflix.fun/stream/zee-delhi-ncr-haryana/master.m3u8
+
+#EXTINF:-1 tvg-id="news-11-bharat" tvg-name="news-11-bharat" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-11-bharat.png",news-11-bharat
+https://yupptv.fredflix.fun/stream/news-11-bharat/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-madhya-pradesh-chhattisgarh" tvg-name="zee-madhya-pradesh-chhattisgarh" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nniyqn.png",zee-madhya-pradesh-chhattisgarh
+https://yupptv.fredflix.fun/stream/zee-madhya-pradesh-chhattisgarh/master.m3u8
+
+#EXTINF:-1 tvg-id="ndtv-rajasthan" tvg-name="ndtv-rajasthan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehlmdz.png",ndtv-rajasthan
+https://yupptv.fredflix.fun/stream/ndtv-rajasthan/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-up-uk" tvg-name="zee-up-uk" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png",zee-up-uk
+https://yupptv.fredflix.fun/stream/zee-up-uk/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-rajasthan-news" tvg-name="zee-rajasthan-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png",zee-rajasthan-news
+https://yupptv.fredflix.fun/stream/zee-rajasthan-news/master.m3u8
+
+#EXTINF:-1 tvg-id="inh-24x7" tvg-name="inh-24x7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gbrcig.png",inh-24x7
+https://yupptv.fredflix.fun/stream/inh-24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="total-tv" tvg-name="total-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png",total-tv
+https://yupptv.fredflix.fun/stream/total-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="news-1-india" tvg-name="news-1-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png",news-1-india
+https://yupptv.fredflix.fun/stream/news-1-india/master.m3u8
+
+#EXTINF:-1 tvg-id="khabrain-abhi-tak" tvg-name="khabrain-abhi-tak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png",khabrain-abhi-tak
+https://yupptv.fredflix.fun/stream/khabrain-abhi-tak/master.m3u8
+
+#EXTINF:-1 tvg-id="bharat-samachar" tvg-name="bharat-samachar" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png",bharat-samachar
+https://yupptv.fredflix.fun/stream/bharat-samachar/master.m3u8
+
+#EXTINF:-1 tvg-id="swaraj-express-smbc" tvg-name="swaraj-express-smbc" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png",swaraj-express-smbc
+https://yupptv.fredflix.fun/stream/swaraj-express-smbc/master.m3u8
+
+#EXTINF:-1 tvg-id="india-voice" tvg-name="india-voice" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png",india-voice
+https://yupptv.fredflix.fun/stream/india-voice/master.m3u8
+
+#EXTINF:-1 tvg-id="jantantra-tv" tvg-name="jantantra-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xdmemv.png",jantantra-tv
+https://yupptv.fredflix.fun/stream/jantantra-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="jan-tv" tvg-name="jan-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yjsmtt.png",jan-tv
+https://yupptv.fredflix.fun/stream/jan-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="apn-news" tvg-name="apn-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chfztu.png",apn-news
+https://yupptv.fredflix.fun/stream/apn-news/master.m3u8
+
+#EXTINF:-1 tvg-id="bansal-news" tvg-name="bansal-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png",bansal-news
+https://yupptv.fredflix.fun/stream/bansal-news/master.m3u8
+
+#EXTINF:-1 tvg-id="kashish-news" tvg-name="kashish-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kashish-news.png",kashish-news
+https://yupptv.fredflix.fun/stream/kashish-news/master.m3u8
+
+#EXTINF:-1 tvg-id="a1-tv" tvg-name="a1-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png",a1-tv
+https://yupptv.fredflix.fun/stream/a1-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="network-10" tvg-name="network-10" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png",network-10
+https://yupptv.fredflix.fun/stream/network-10/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-business" tvg-name="zee-business" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png",zee-business
+https://yupptv.fredflix.fun/stream/zee-business/master.m3u8
+
+#EXTINF:-1 tvg-id="abp-majha" tvg-name="abp-majha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png",abp-majha
+https://yupptv.fredflix.fun/stream/abp-majha/master.m3u8
+
+#EXTINF:-1 tvg-id="tv9-maharashtra" tvg-name="tv9-maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/syutfx.png",tv9-maharashtra
+https://yupptv.fredflix.fun/stream/tv9-maharashtra/master.m3u8
+
+#EXTINF:-1 tvg-id="24-taas" tvg-name="24-taas" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ldybum.png",24-taas
+https://yupptv.fredflix.fun/stream/24-taas/master.m3u8
+
+#EXTINF:-1 tvg-id="jai-maharashtra" tvg-name="jai-maharashtra" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png",jai-maharashtra
+https://yupptv.fredflix.fun/stream/jai-maharashtra/master.m3u8
+
+#EXTINF:-1 tvg-id="abp-ananda" tvg-name="abp-ananda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png",abp-ananda
+https://yupptv.fredflix.fun/stream/abp-ananda/master.m3u8
+
+#EXTINF:-1 tvg-id="republic-bangla" tvg-name="republic-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awqywf.png",republic-bangla
+https://yupptv.fredflix.fun/stream/republic-bangla/master.m3u8
+
+#EXTINF:-1 tvg-id="24-ghanta" tvg-name="24-ghanta" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uperuc.png",24-ghanta
+https://yupptv.fredflix.fun/stream/24-ghanta/master.m3u8
+
+#EXTINF:-1 tvg-id="tv9-bangla" tvg-name="tv9-bangla" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mnuwms.png",tv9-bangla
+https://yupptv.fredflix.fun/stream/tv9-bangla/master.m3u8
+
+#EXTINF:-1 tvg-id="news-time" tvg-name="news-time" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-time.png",news-time
+https://yupptv.fredflix.fun/stream/news-time/master.m3u8
+
+#EXTINF:-1 tvg-id="calcutta-news" tvg-name="calcutta-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png",calcutta-news
+https://yupptv.fredflix.fun/stream/calcutta-news/master.m3u8
+
+#EXTINF:-1 tvg-id="tv9-news" tvg-name="tv9-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cmwyio.png",tv9-news
+https://yupptv.fredflix.fun/stream/tv9-news/master.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ntv.png",ntv
+https://yupptv.fredflix.fun/stream/ntv/master.m3u8
+
+#EXTINF:-1 tvg-id="v6-news" tvg-name="v6-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wcxeyr.png",v6-news
+https://yupptv.fredflix.fun/stream/v6-news/master.m3u8
+
+#EXTINF:-1 tvg-id="tv5" tvg-name="tv5" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cwlloq.png",tv5
+https://yupptv.fredflix.fun/stream/tv5/master.m3u8
+
+#EXTINF:-1 tvg-id="sakshi-tv" tvg-name="sakshi-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ykuyew.png",sakshi-tv
+https://yupptv.fredflix.fun/stream/sakshi-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="t-news" tvg-name="t-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/t-news.png",t-news
+https://yupptv.fredflix.fun/stream/t-news/master.m3u8
+
+#EXTINF:-1 tvg-id="10tv" tvg-name="10tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/10tv.png",10tv
+https://yupptv.fredflix.fun/stream/10tv/master.m3u8
+
+#EXTINF:-1 tvg-id="mahaa-tv" tvg-name="mahaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mahaa-tv.png",mahaa-tv
+https://yupptv.fredflix.fun/stream/mahaa-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="inews" tvg-name="inews" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inews.png",inews
+https://yupptv.fredflix.fun/stream/inews/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-news-telugu" tvg-name="zee-news-telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aquwob.png",zee-news-telugu
+https://yupptv.fredflix.fun/stream/zee-news-telugu/master.m3u8
+
+#EXTINF:-1 tvg-id="big-tv" tvg-name="big-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/big-tv.png",big-tv
+https://yupptv.fredflix.fun/stream/big-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="hmtv" tvg-name="hmtv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hmtv.png",hmtv
+https://yupptv.fredflix.fun/stream/hmtv/master.m3u8
+
+#EXTINF:-1 tvg-id="cvr-news" tvg-name="cvr-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vncsik.png",cvr-news
+https://yupptv.fredflix.fun/stream/cvr-news/master.m3u8
+
+#EXTINF:-1 tvg-id="6tv" tvg-name="6tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/loonbb.png",6tv
+https://yupptv.fredflix.fun/stream/6tv/master.m3u8
+
+#EXTINF:-1 tvg-id="tv9-kannada" tvg-name="tv9-kannada" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ivzkvy.png",tv9-kannada
+https://yupptv.fredflix.fun/stream/tv9-kannada/master.m3u8
+
+#EXTINF:-1 tvg-id="republic-kannada" tvg-name="republic-kannada" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ssufdl.png",republic-kannada
+https://yupptv.fredflix.fun/stream/republic-kannada/master.m3u8
+
+#EXTINF:-1 tvg-id="tv5-kannada" tvg-name="tv5-kannada" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv5-kannada.png",tv5-kannada
+https://yupptv.fredflix.fun/stream/tv5-kannada/master.m3u8
+
+#EXTINF:-1 tvg-id="news-1st" tvg-name="news-1st" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-1st.png",news-1st
+https://yupptv.fredflix.fun/stream/news-1st/master.m3u8
+
+#EXTINF:-1 tvg-id="tv9-gujarati" tvg-name="tv9-gujarati" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vcevdy.png",tv9-gujarati
+https://yupptv.fredflix.fun/stream/tv9-gujarati/master.m3u8
+
+#EXTINF:-1 tvg-id="abp-asmita" tvg-name="abp-asmita" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png",abp-asmita
+https://yupptv.fredflix.fun/stream/abp-asmita/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-24-kalak" tvg-name="zee-24-kalak" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vbezgf.png",zee-24-kalak
+https://yupptv.fredflix.fun/stream/zee-24-kalak/master.m3u8
+
+#EXTINF:-1 tvg-id="mantavya-news" tvg-name="mantavya-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fnyvfg.png",mantavya-news
+https://yupptv.fredflix.fun/stream/mantavya-news/master.m3u8
+
+#EXTINF:-1 tvg-id="vtv-gujarati" tvg-name="vtv-gujarati" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vtv-gujarati.png",vtv-gujarati
+https://yupptv.fredflix.fun/stream/vtv-gujarati/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-punjab-haryana-himachal" tvg-name="zee-punjab-haryana-himachal" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rkpgdq.png",zee-punjab-haryana-himachal
+https://yupptv.fredflix.fun/stream/zee-punjab-haryana-himachal/master.m3u8
+
+#EXTINF:-1 tvg-id="zee-salaam" tvg-name="zee-salaam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uudnpd.png",zee-salaam
+https://yupptv.fredflix.fun/stream/zee-salaam/master.m3u8
+
+#EXTINF:-1 tvg-id="protidin-time" tvg-name="protidin-time" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/protidin-time.png",protidin-time
+https://yupptv.fredflix.fun/stream/protidin-time/master.m3u8
+
+#EXTINF:-1 tvg-id="polimer-news" tvg-name="polimer-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/polimer-news.png",polimer-news
+https://yupptv.fredflix.fun/stream/polimer-news/master.m3u8
+
+#EXTINF:-1 tvg-id="puthiya-thalaimurai" tvg-name="puthiya-thalaimurai" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/puthiya-thalaimurai.png",puthiya-thalaimurai
+https://yupptv.fredflix.fun/stream/puthiya-thalaimurai/master.m3u8
+
+#EXTINF:-1 tvg-id="seithigal-tv" tvg-name="seithigal-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/seithigal-tv.png",seithigal-tv
+https://yupptv.fredflix.fun/stream/seithigal-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="asianet-news-india" tvg-name="asianet-news-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png",asianet-news-india
+https://yupptv.fredflix.fun/stream/asianet-news-india/master.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="24" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/24.png",24
+https://yupptv.fredflix.fun/stream/24/master.m3u8
+
+#EXTINF:-1 tvg-id="reporter-tv" tvg-name="reporter-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/reporter-tv.png",reporter-tv
+https://yupptv.fredflix.fun/stream/reporter-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="manorama-news" tvg-name="manorama-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/manorama-news.png",manorama-news
+https://yupptv.fredflix.fun/stream/manorama-news/master.m3u8
+
+#EXTINF:-1 tvg-id="mathrubhumi-news" tvg-name="mathrubhumi-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mathrubhumi-news.png",mathrubhumi-news
+https://yupptv.fredflix.fun/stream/mathrubhumi-news/master.m3u8
+
+#EXTINF:-1 tvg-id="janam-tv" tvg-name="janam-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/janam-tv.png",janam-tv
+https://yupptv.fredflix.fun/stream/janam-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="people-tv" tvg-name="people-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/howjwp.png",people-tv
+https://yupptv.fredflix.fun/stream/people-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="argus-news" tvg-name="argus-news" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ayrbqa.png",argus-news
+https://yupptv.fredflix.fun/stream/argus-news/master.m3u8
+
+#EXTINF:-1 tvg-id="nandighosha-tv" tvg-name="nandighosha-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nandighosha-tv.png",nandighosha-tv
+https://yupptv.fredflix.fun/stream/nandighosha-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="kalinga-tv" tvg-name="kalinga-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kalinga-tv.png",kalinga-tv
+https://yupptv.fredflix.fun/stream/kalinga-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="scifi-world" tvg-name="scifi-world" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/oxsgsi.png",scifi-world
+https://yupptv.fredflix.fun/stream/scifi-world/master.m3u8
+
+#EXTINF:-1 tvg-id="encore" tvg-name="encore" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/twazqd.png",encore
+https://yupptv.fredflix.fun/stream/encore/master.m3u8
+
+#EXTINF:-1 tvg-id="danger-vision-tv" tvg-name="danger-vision-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/iktjkc.png",danger-vision-tv
+https://yupptv.fredflix.fun/stream/danger-vision-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="mercury" tvg-name="mercury" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wyuowl.png",mercury
+https://yupptv.fredflix.fun/stream/mercury/master.m3u8
+
+#EXTINF:-1 tvg-id="urban-action" tvg-name="urban-action" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/urban-action.png",urban-action
+https://yupptv.fredflix.fun/stream/urban-action/master.m3u8
+
+#EXTINF:-1 tvg-id="the-explorers1" tvg-name="the-explorers1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ggdzvt.png",the-explorers1
+https://yupptv.fredflix.fun/stream/the-explorers1/master.m3u8
+
+#EXTINF:-1 tvg-id="bang-bang-tv" tvg-name="bang-bang-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png",bang-bang-tv
+https://yupptv.fredflix.fun/stream/bang-bang-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="voyages" tvg-name="voyages" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yfbcof.png",voyages
+https://yupptv.fredflix.fun/stream/voyages/master.m3u8
+
+#EXTINF:-1 tvg-id="lol-tv" tvg-name="lol-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lol-tv.png",lol-tv
+https://yupptv.fredflix.fun/stream/lol-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="heartfelt-tv" tvg-name="heartfelt-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/heartfelt-tv.png",heartfelt-tv
+https://yupptv.fredflix.fun/stream/heartfelt-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="trufa" tvg-name="trufa" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/trufa.png",trufa
+https://yupptv.fredflix.fun/stream/trufa/master.m3u8
+
+#EXTINF:-1 tvg-id="love-2-hate-tv" tvg-name="love-2-hate-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vfjgky.png",love-2-hate-tv
+https://yupptv.fredflix.fun/stream/love-2-hate-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="mundo-series" tvg-name="mundo-series" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbhcva.png",mundo-series
+https://yupptv.fredflix.fun/stream/mundo-series/master.m3u8
+
+#EXTINF:-1 tvg-id="nitro-tv" tvg-name="nitro-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uohdua.png",nitro-tv
+https://yupptv.fredflix.fun/stream/nitro-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="coeur-ocean-tv" tvg-name="coeur-ocean-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/coeur-ocean-tv.png",coeur-ocean-tv
+https://yupptv.fredflix.fun/stream/coeur-ocean-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="latino-classic-channel" tvg-name="latino-classic-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/latino-classic-channel.png",latino-classic-channel
+https://yupptv.fredflix.fun/stream/latino-classic-channel/master.m3u8
+
+#EXTINF:-1 tvg-id="mama-benz-tv" tvg-name="mama-benz-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mama-benz-tv.png",mama-benz-tv
+https://yupptv.fredflix.fun/stream/mama-benz-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="colour-blind" tvg-name="colour-blind" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/idvans.png",colour-blind
+https://yupptv.fredflix.fun/stream/colour-blind/master.m3u8
+
+#EXTINF:-1 tvg-id="edgy-tv" tvg-name="edgy-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tlmbwv.png",edgy-tv
+https://yupptv.fredflix.fun/stream/edgy-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="outer-vision-tv" tvg-name="outer-vision-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewwdxf.png",outer-vision-tv
+https://yupptv.fredflix.fun/stream/outer-vision-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="just-for-laughs-gags" tvg-name="just-for-laughs-gags" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inxhvg.png",just-for-laughs-gags
+https://yupptv.fredflix.fun/stream/just-for-laughs-gags/master.m3u8
+
+#EXTINF:-1 tvg-id="awe-plus" tvg-name="awe-plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xccrcr.png",awe-plus
+https://yupptv.fredflix.fun/stream/awe-plus/master.m3u8
+
+#EXTINF:-1 tvg-id="brat-tv" tvg-name="brat-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aqzbzc.png",brat-tv
+https://yupptv.fredflix.fun/stream/brat-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="chana-jor" tvg-name="chana-jor" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chana-jor.png",chana-jor
+https://yupptv.fredflix.fun/stream/chana-jor/master.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-masala" tvg-name="bollywood-masala" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bollywood-masala.jpeg",bollywood-masala
+https://yupptv.fredflix.fun/stream/bollywood-masala/master.m3u8
+
+#EXTINF:-1 tvg-id="desi-play-tv" tvg-name="desi-play-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/desi-play-tv.png",desi-play-tv
+https://yupptv.fredflix.fun/stream/desi-play-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-4u" tvg-name="bollywood-4u" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sinxiy.png",bollywood-4u
+https://yupptv.fredflix.fun/stream/bollywood-4u/master.m3u8
+
+#EXTINF:-1 tvg-id="comedy-tadka" tvg-name="comedy-tadka" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tdkonc.png",comedy-tadka
+https://yupptv.fredflix.fun/stream/comedy-tadka/master.m3u8
+
+#EXTINF:-1 tvg-id="diy-art" tvg-name="diy-art" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dayyvk.png",diy-art
+https://yupptv.fredflix.fun/stream/diy-art/master.m3u8
+
+#EXTINF:-1 tvg-id="ctvn-akd-plus" tvg-name="ctvn-akd-plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ctvn-akd-plus.png",ctvn-akd-plus
+https://yupptv.fredflix.fun/stream/ctvn-akd-plus/master.m3u8
+
+#EXTINF:-1 tvg-id="mana-tv-international" tvg-name="mana-tv-international" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mana-tv-international.png",mana-tv-international
+https://yupptv.fredflix.fun/stream/mana-tv-international/master.m3u8
+
+#EXTINF:-1 tvg-id="tana-prapancha-sahitya-vedika" tvg-name="tana-prapancha-sahitya-vedika" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tana-prapancha-sahitya-vedika.png",tana-prapancha-sahitya-vedika
+https://yupptv.fredflix.fun/stream/tana-prapancha-sahitya-vedika/master.m3u8
+
+#EXTINF:-1 tvg-id="pitaara-comedy" tvg-name="pitaara-comedy" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wneior.png",pitaara-comedy
+https://yupptv.fredflix.fun/stream/pitaara-comedy/master.m3u8
+
+#EXTINF:-1 tvg-id="parvasi-tv-hd" tvg-name="parvasi-tv-hd" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/parvasi-tv-hd.png",parvasi-tv-hd
+https://yupptv.fredflix.fun/stream/parvasi-tv-hd/master.m3u8
+
+#EXTINF:-1 tvg-id="pasand" tvg-name="pasand" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pasand.png",pasand
+https://yupptv.fredflix.fun/stream/pasand/master.m3u8
+
+#EXTINF:-1 tvg-id="rengoni-tv" tvg-name="rengoni-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rengoni-tv.png",rengoni-tv
+https://yupptv.fredflix.fun/stream/rengoni-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="athavan-tv-hd" tvg-name="athavan-tv-hd" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png",athavan-tv-hd
+https://yupptv.fredflix.fun/stream/athavan-tv-hd/master.m3u8
+
+#EXTINF:-1 tvg-id="moon-tv" tvg-name="moon-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/moon-tv.png",moon-tv
+https://yupptv.fredflix.fun/stream/moon-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="peppers-tv" tvg-name="peppers-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peppers-tv.png",peppers-tv
+https://yupptv.fredflix.fun/stream/peppers-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="ibc-radio" tvg-name="ibc-radio" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ibc-radio.png",ibc-radio
+https://yupptv.fredflix.fun/stream/ibc-radio/master.m3u8
+
+#EXTINF:-1 tvg-id="jaihind-tv" tvg-name="jaihind-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png",jaihind-tv
+https://yupptv.fredflix.fun/stream/jaihind-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="kerala-vision" tvg-name="kerala-vision" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kerala-vision.png",kerala-vision
+https://yupptv.fredflix.fun/stream/kerala-vision/master.m3u8
+
+#EXTINF:-1 tvg-id="nepal-1" tvg-name="nepal-1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nepal-1.png",nepal-1
+https://yupptv.fredflix.fun/stream/nepal-1/master.m3u8
+
+#EXTINF:-1 tvg-id="jupiter-tv" tvg-name="jupiter-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jupiter-tv.png",jupiter-tv
+https://yupptv.fredflix.fun/stream/jupiter-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="wildest-wish-tv" tvg-name="wildest-wish-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kawupc.png",wildest-wish-tv
+https://yupptv.fredflix.fun/stream/wildest-wish-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="edgy-urban" tvg-name="edgy-urban" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athpnb.png",edgy-urban
+https://yupptv.fredflix.fun/stream/edgy-urban/master.m3u8
+
+#EXTINF:-1 tvg-id="mastiii" tvg-name="mastiii" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xbhpwb.png",mastiii
+https://yupptv.fredflix.fun/stream/mastiii/master.m3u8
+
+#EXTINF:-1 tvg-id="balle-balle" tvg-name="balle-balle" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png",balle-balle
+https://yupptv.fredflix.fun/stream/balle-balle/master.m3u8
+
+#EXTINF:-1 tvg-id="insync" tvg-name="insync" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png",insync
+https://yupptv.fredflix.fun/stream/insync/master.m3u8
+
+#EXTINF:-1 tvg-id="haryanvi-hits" tvg-name="haryanvi-hits" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png",haryanvi-hits
+https://yupptv.fredflix.fun/stream/haryanvi-hits/master.m3u8
+
+#EXTINF:-1 tvg-id="songdew" tvg-name="songdew" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png",songdew
+https://yupptv.fredflix.fun/stream/songdew/master.m3u8
+
+#EXTINF:-1 tvg-id="maiboli" tvg-name="maiboli" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dnjjkm.png",maiboli
+https://yupptv.fredflix.fun/stream/maiboli/master.m3u8
+
+#EXTINF:-1 tvg-id="boogle-bollywood" tvg-name="boogle-bollywood" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png",boogle-bollywood
+https://yupptv.fredflix.fun/stream/boogle-bollywood/master.m3u8
+
+#EXTINF:-1 tvg-id="wah-punjabi" tvg-name="wah-punjabi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wah-punjabi.png",wah-punjabi
+https://yupptv.fredflix.fun/stream/wah-punjabi/master.m3u8
+
+#EXTINF:-1 tvg-id="murasu" tvg-name="murasu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/murasu.png",murasu
+https://yupptv.fredflix.fun/stream/murasu/master.m3u8
+
+#EXTINF:-1 tvg-id="thalaa-tv" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",thalaa-tv
+https://yupptv.fredflix.fun/stream/thalaa-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="kappa-tv" tvg-name="kappa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kappa-tv.png",kappa-tv
+https://yupptv.fredflix.fun/stream/kappa-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="ric-plus" tvg-name="ric-plus" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ric-plus.jpeg",ric-plus
+https://yupptv.fredflix.fun/stream/ric-plus/master.m3u8
+
+#EXTINF:-1 tvg-id="kiddo" tvg-name="kiddo" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png",kiddo
+https://yupptv.fredflix.fun/stream/kiddo/master.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-tv-classics" tvg-name="cartoon-tv-classics" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png",cartoon-tv-classics
+https://yupptv.fredflix.fun/stream/cartoon-tv-classics/master.m3u8
+
+#EXTINF:-1 tvg-id="green-gold-tv" tvg-name="green-gold-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png",green-gold-tv
+https://yupptv.fredflix.fun/stream/green-gold-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="god-tv" tvg-name="god-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jjhfoz.png",god-tv
+https://yupptv.fredflix.fun/stream/god-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="drool" tvg-name="drool" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wybgyr.png",drool
+https://yupptv.fredflix.fun/stream/drool/master.m3u8
+
+#EXTINF:-1 tvg-id="hare-krishna-tv" tvg-name="hare-krishna-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png",hare-krishna-tv
+https://yupptv.fredflix.fun/stream/hare-krishna-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="divya-tv" tvg-name="divya-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png",divya-tv
+https://yupptv.fredflix.fun/stream/divya-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="krishna-vani" tvg-name="krishna-vani" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/krishna-vani.png",krishna-vani
+https://yupptv.fredflix.fun/stream/krishna-vani/master.m3u8
+
+#EXTINF:-1 tvg-id="santwani" tvg-name="santwani" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/santwani.png",santwani
+https://yupptv.fredflix.fun/stream/santwani/master.m3u8
+
+#EXTINF:-1 tvg-id="sharnam-tv" tvg-name="sharnam-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sharnam-tv.png",sharnam-tv
+https://yupptv.fredflix.fun/stream/sharnam-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="brahma-kumaris" tvg-name="brahma-kumaris" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brahma-kumaris.png",brahma-kumaris
+https://yupptv.fredflix.fun/stream/brahma-kumaris/master.m3u8
+
+#EXTINF:-1 tvg-id="mangalmay-tv" tvg-name="mangalmay-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mangalmay-tv.png",mangalmay-tv
+https://yupptv.fredflix.fun/stream/mangalmay-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="disha-tv" tvg-name="disha-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/disha-tv.png",disha-tv
+https://yupptv.fredflix.fun/stream/disha-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="jinvani-channel" tvg-name="jinvani-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jinvani-channel.png",jinvani-channel
+https://yupptv.fredflix.fun/stream/jinvani-channel/master.m3u8
+
+#EXTINF:-1 tvg-id="astroscience" tvg-name="astroscience" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/astroscience.png",astroscience
+https://yupptv.fredflix.fun/stream/astroscience/master.m3u8
+
+#EXTINF:-1 tvg-id="subharti-tv" tvg-name="subharti-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/subharti-tv.png",subharti-tv
+https://yupptv.fredflix.fun/stream/subharti-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="peace-of-mind" tvg-name="peace-of-mind" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peace-of-mind.png",peace-of-mind
+https://yupptv.fredflix.fun/stream/peace-of-mind/master.m3u8
+
+#EXTINF:-1 tvg-id="svbc-4" tvg-name="svbc-4" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vchaou.png",svbc-4
+https://yupptv.fredflix.fun/stream/svbc-4/master.m3u8
+
+#EXTINF:-1 tvg-id="divya-bhajan" tvg-name="divya-bhajan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/divya-bhajan.png",divya-bhajan
+https://yupptv.fredflix.fun/stream/divya-bhajan/master.m3u8
+
+#EXTINF:-1 tvg-id="hosanna-tv-hindi" tvg-name="hosanna-tv-hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna-tv-hindi.png",hosanna-tv-hindi
+https://yupptv.fredflix.fun/stream/hosanna-tv-hindi/master.m3u8
+
+#EXTINF:-1 tvg-id="bhakti-tv" tvg-name="bhakti-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bhakti-tv.png",bhakti-tv
+https://yupptv.fredflix.fun/stream/bhakti-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="svbc" tvg-name="svbc" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc.png",svbc
+https://yupptv.fredflix.fun/stream/svbc/master.m3u8
+
+#EXTINF:-1 tvg-id="yupptv-veda" tvg-name="yupptv-veda" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yupptv-veda.png",yupptv-veda
+https://yupptv.fredflix.fun/stream/yupptv-veda/master.m3u8
+
+#EXTINF:-1 tvg-id="hindu-dharmam" tvg-name="hindu-dharmam" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindu-dharmam.png",hindu-dharmam
+https://yupptv.fredflix.fun/stream/hindu-dharmam/master.m3u8
+
+#EXTINF:-1 tvg-id="aradana-tv" tvg-name="aradana-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aradana-tv.png",aradana-tv
+https://yupptv.fredflix.fun/stream/aradana-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="om-cvr" tvg-name="om-cvr" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/om-cvr.png",om-cvr
+https://yupptv.fredflix.fun/stream/om-cvr/master.m3u8
+
+#EXTINF:-1 tvg-id="pmc" tvg-name="pmc" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pmc.png",pmc
+https://yupptv.fredflix.fun/stream/pmc/master.m3u8
+
+#EXTINF:-1 tvg-id="svbc-3" tvg-name="svbc-3" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/scfkep.png",svbc-3
+https://yupptv.fredflix.fun/stream/svbc-3/master.m3u8
+
+#EXTINF:-1 tvg-id="sri-sankara-kannada" tvg-name="sri-sankara-kannada" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-kannada.png",sri-sankara-kannada
+https://yupptv.fredflix.fun/stream/sri-sankara-kannada/master.m3u8
+
+#EXTINF:-1 tvg-id="lakshyatv" tvg-name="lakshyatv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lakshyatv.png",lakshyatv
+https://yupptv.fredflix.fun/stream/lakshyatv/master.m3u8
+
+#EXTINF:-1 tvg-id="sri-sankara-tamil" tvg-name="sri-sankara-tamil" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-tamil.png",sri-sankara-tamil
+https://yupptv.fredflix.fun/stream/sri-sankara-tamil/master.m3u8
+
+#EXTINF:-1 tvg-id="madha-tv" tvg-name="madha-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/madha-tv.png",madha-tv
+https://yupptv.fredflix.fun/stream/madha-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="sivan-temple-tv" tvg-name="sivan-temple-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sivan-temple-tv.png",sivan-temple-tv
+https://yupptv.fredflix.fun/stream/sivan-temple-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="svbc-2" tvg-name="svbc-2" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc-2.png",svbc-2
+https://yupptv.fredflix.fun/stream/svbc-2/master.m3u8
+
+#EXTINF:-1 tvg-id="angel-tv" tvg-name="angel-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/angel-tv.png",angel-tv
+https://yupptv.fredflix.fun/stream/angel-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="swasthik-tv" tvg-name="swasthik-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/swasthik-tv.png",swasthik-tv
+https://yupptv.fredflix.fun/stream/swasthik-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="hosanna" tvg-name="hosanna" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna.png",hosanna
+https://yupptv.fredflix.fun/stream/hosanna/master.m3u8
+
+#EXTINF:-1 tvg-id="holy-god-tv" tvg-name="holy-god-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/holy-god-tv.png",holy-god-tv
+https://yupptv.fredflix.fun/stream/holy-god-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="nambikkai" tvg-name="nambikkai" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nambikkai.png",nambikkai
+https://yupptv.fredflix.fun/stream/nambikkai/master.m3u8
+
+#EXTINF:-1 tvg-id="shalom-tv" tvg-name="shalom-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shalom-tv.png",shalom-tv
+https://yupptv.fredflix.fun/stream/shalom-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="power-vision-tv" tvg-name="power-vision-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/power-vision-tv.png",power-vision-tv
+https://yupptv.fredflix.fun/stream/power-vision-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="goodness-tv" tvg-name="goodness-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/goodness-tv.png",goodness-tv
+https://yupptv.fredflix.fun/stream/goodness-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="star-vision" tvg-name="star-vision" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/star-vision.png",star-vision
+https://yupptv.fredflix.fun/stream/star-vision/master.m3u8
+
+#EXTINF:-1 tvg-id="mariantv" tvg-name="mariantv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mariantv.png",mariantv
+https://yupptv.fredflix.fun/stream/mariantv/master.m3u8
+
+#EXTINF:-1 tvg-id="cowboy-movie-channel" tvg-name="cowboy-movie-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cowboy-movie-channel.png",cowboy-movie-channel
+https://yupptv.fredflix.fun/stream/cowboy-movie-channel/master.m3u8
+
+#EXTINF:-1 tvg-id="horror-tv" tvg-name="horror-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png",horror-tv
+https://yupptv.fredflix.fun/stream/horror-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="tensions-tv" tvg-name="tensions-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tensions-tv.png",tensions-tv
+https://yupptv.fredflix.fun/stream/tensions-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="drive-in-movie-channel" tvg-name="drive-in-movie-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png",drive-in-movie-channel
+https://yupptv.fredflix.fun/stream/drive-in-movie-channel/master.m3u8
+
+#EXTINF:-1 tvg-id="weshort" tvg-name="weshort" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/weshort.png",weshort
+https://yupptv.fredflix.fun/stream/weshort/master.m3u8
+
+#EXTINF:-1 tvg-id="kung-fu" tvg-name="kung-fu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png",kung-fu
+https://yupptv.fredflix.fun/stream/kung-fu/master.m3u8
+
+#EXTINF:-1 tvg-id="best-action-tv" tvg-name="best-action-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png",best-action-tv
+https://yupptv.fredflix.fun/stream/best-action-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="best-drama-tv" tvg-name="best-drama-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png",best-drama-tv
+https://yupptv.fredflix.fun/stream/best-drama-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="best-thriller-tv" tvg-name="best-thriller-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png",best-thriller-tv
+https://yupptv.fredflix.fun/stream/best-thriller-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="tolly-tv1" tvg-name="tolly-tv1" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png",tolly-tv1
+https://yupptv.fredflix.fun/stream/tolly-tv1/master.m3u8
+
+#EXTINF:-1 tvg-id="pitaara-tv" tvg-name="pitaara-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbzkrr.png",pitaara-tv
+https://yupptv.fredflix.fun/stream/pitaara-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="dabangg" tvg-name="dabangg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qovodm.png",dabangg
+https://yupptv.fredflix.fun/stream/dabangg/master.m3u8
+
+#EXTINF:-1 tvg-id="ndtv-goodtimes" tvg-name="ndtv-goodtimes" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png",ndtv-goodtimes
+https://yupptv.fredflix.fun/stream/ndtv-goodtimes/master.m3u8
+
+#EXTINF:-1 tvg-id="defiance-media" tvg-name="defiance-media" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jocyub.png",defiance-media
+https://yupptv.fredflix.fun/stream/defiance-media/master.m3u8
+
+#EXTINF:-1 tvg-id="escape-tv" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png",escape-tv
+https://yupptv.fredflix.fun/stream/escape-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="luxury-dreams-tv" tvg-name="luxury-dreams-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kuygkv.png",luxury-dreams-tv
+https://yupptv.fredflix.fun/stream/luxury-dreams-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="unchainedtv" tvg-name="unchainedtv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gjwmjv.png",unchainedtv
+https://yupptv.fredflix.fun/stream/unchainedtv/master.m3u8
+
+#EXTINF:-1 tvg-id="vanitha-tv" tvg-name="vanitha-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vanitha-tv.png",vanitha-tv
+https://yupptv.fredflix.fun/stream/vanitha-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="cvr-health" tvg-name="cvr-health" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cvr-health.png",cvr-health
+https://yupptv.fredflix.fun/stream/cvr-health/master.m3u8
+
+#EXTINF:-1 tvg-id="ayush-tv" tvg-name="ayush-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lrvzwz.png",ayush-tv
+https://yupptv.fredflix.fun/stream/ayush-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="cricket-gold" tvg-name="cricket-gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png",cricket-gold
+https://yupptv.fredflix.fun/stream/cricket-gold/master.m3u8
+
+#EXTINF:-1 tvg-id="adventure-sports-tv" tvg-name="adventure-sports-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png",adventure-sports-tv
+https://yupptv.fredflix.fun/stream/adventure-sports-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="drive--speed" tvg-name="drive--speed" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.jpeg",drive--speed
+https://yupptv.fredflix.fun/stream/drive--speed/master.m3u8
+
+#EXTINF:-1 tvg-id="hunt-fish-tv" tvg-name="hunt-fish-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.jpeg",hunt-fish-tv
+https://yupptv.fredflix.fun/stream/hunt-fish-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="nautical-channel" tvg-name="nautical-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nautical-channel.png",nautical-channel
+https://yupptv.fredflix.fun/stream/nautical-channel/master.m3u8
+
+#EXTINF:-1 tvg-id="yachting-tv" tvg-name="yachting-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png",yachting-tv
+https://yupptv.fredflix.fun/stream/yachting-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="absinthe-tv" tvg-name="absinthe-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtils.png",absinthe-tv
+https://yupptv.fredflix.fun/stream/absinthe-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="fight-tv" tvg-name="fight-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png",fight-tv
+https://yupptv.fredflix.fun/stream/fight-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="kozoom" tvg-name="kozoom" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png",kozoom
+https://yupptv.fredflix.fun/stream/kozoom/master.m3u8
+
+#EXTINF:-1 tvg-id="xtrem-sports" tvg-name="xtrem-sports" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xtrem-sports.png",xtrem-sports
+https://yupptv.fredflix.fun/stream/xtrem-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="sport-fishing-tv" tvg-name="sport-fishing-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png",sport-fishing-tv
+https://yupptv.fredflix.fun/stream/sport-fishing-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="america-boating-channel" tvg-name="america-boating-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwfaja.png",america-boating-channel
+https://yupptv.fredflix.fun/stream/america-boating-channel/master.m3u8
+
+#EXTINF:-1 tvg-id="the-chukker-channel" tvg-name="the-chukker-channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png",the-chukker-channel
+https://yupptv.fredflix.fun/stream/the-chukker-channel/master.m3u8
+
+#EXTINF:-1 tvg-id="chronotv" tvg-name="chronotv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png",chronotv
+https://yupptv.fredflix.fun/stream/chronotv/master.m3u8
+
+#EXTINF:-1 tvg-id="itsf" tvg-name="itsf" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/itsf.png",itsf
+https://yupptv.fredflix.fun/stream/itsf/master.m3u8
+
+#EXTINF:-1 tvg-id="mma-tv" tvg-name="mma-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png",mma-tv
+https://yupptv.fredflix.fun/stream/mma-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="motor-racing" tvg-name="motor-racing" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cgrggj.png",motor-racing
+https://yupptv.fredflix.fun/stream/motor-racing/master.m3u8
+
+#EXTINF:-1 tvg-id="ace-tv" tvg-name="ace-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/whjmwm.png",ace-tv
+https://yupptv.fredflix.fun/stream/ace-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="willow-sports" tvg-name="willow-sports" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png",willow-sports
+https://yupptv.fredflix.fun/stream/willow-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="english-tv" tvg-name="english-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/english-tv.png",english-tv
+https://yupptv.fredflix.fun/stream/english-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="turito-iit-jee" tvg-name="turito-iit-jee" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png",turito-iit-jee
+https://yupptv.fredflix.fun/stream/turito-iit-jee/master.m3u8
+
+#EXTINF:-1 tvg-id="turito-neet" tvg-name="turito-neet" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png",turito-neet
+https://yupptv.fredflix.fun/stream/turito-neet/master.m3u8
+
+#EXTINF:-1 tvg-id="t-sat-nipuna" tvg-name="t-sat-nipuna" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/crzalk.png",t-sat-nipuna
+https://yupptv.fredflix.fun/stream/t-sat-nipuna/master.m3u8
+
+#EXTINF:-1 tvg-id="t-sat-vidya" tvg-name="t-sat-vidya" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/etmwbj.png",t-sat-vidya
+https://yupptv.fredflix.fun/stream/t-sat-vidya/master.m3u8
+
+#EXTINF:-1 tvg-id="space-series" tvg-name="space-series" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png",space-series
+https://yupptv.fredflix.fun/stream/space-series/master.m3u8
+
