@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Broadpeak BkS350 Origin Packager (version=1.12.11-29361) -->
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" type="dynamic" availabilityStartTime="1970-01-01T00:00:00Z" publishTime="2025-07-03T02:21:33.976005Z" minimumUpdatePeriod="PT2S" timeShiftBufferDepth="PT1M" maxSegmentDuration="PT3S" minBufferTime="PT2S" profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
+  <Period id="1" start="PT0S">
+    <BaseURL>dash/</BaseURL>
+    <AdaptationSet id="1" group="1" contentType="audio" lang="hi" segmentAlignment="true" audioSamplingRate="48000" mimeType="audio/mp4" codecs="mp4a.40.2" startWithSAP="1">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="5181D3E6-6980-5557-8CED-C5BFC86B3E56">
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+      </ContentProtection>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37">
+      </InbandEventStream>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="48000" initialization="Disney_Channel_BTS-$RepresentationID$.dash" media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
+        <!-- 2025-07-03T02:20:23.024000Z / 1751509223 - 2025-07-03T02:21:25.018645Z -->
+        <SegmentTimeline>
+          <S t="84072442705152" d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+          <S d="96257"/>
+          <S d="96255"/>
+          <S d="95232"/>
+          <S d="96256"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="audio_98834_hin=98800" bandwidth="98800">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="2" contentType="video" par="16:9" minBandwidth="1272000" maxBandwidth="2702400" segmentAlignment="true" width="1024" height="576" sar="1:1" frameRate="25" mimeType="video/mp4" codecs="avc1.64001F" startWithSAP="1">
+      <!-- Common Encryption -->
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="5181D3E6-6980-5557-8CED-C5BFC86B3E56">
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+      </ContentProtection>
+      <InbandEventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" value="37">
+      </InbandEventStream>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate timescale="600" initialization="Disney_Channel_BTS-$RepresentationID$.dash" media="Disney_Channel_BTS-$RepresentationID$-$Time$.dash">
+        <!-- 2025-07-03T02:20:25.008333Z / 1751509225 - 2025-07-03T02:21:25.008333Z -->
+        <SegmentTimeline>
+          <S t="1050905535005" d="1200" r="29"/>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="video=1272000" bandwidth="1272000" scanType="progressive">
+      </Representation>
+      <Representation id="video=2702400" bandwidth="2702400" scanType="progressive">
+      </Representation>
+    </AdaptationSet>
+  </Period>
+  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:direct:2014" value="2025-07-03T02:21:34.364000Z"/>
+</MPD>
