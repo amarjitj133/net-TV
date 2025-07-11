@@ -15,15 +15,6 @@ http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_146.m3u8
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-type="Movies" group-title="TS-JioTV Movies" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png",Movies Now HD
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_151.m3u8
 
-#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_154_${catchup-id}_${start}_${stop}.m3u8",Sony SAB
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_154.m3u8
-
-#EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-type="Sports" group-title="TS-JioTV Sports" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Ten 5 HD
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_155.m3u8
-
-#EXTINF:-1 tvg-id="162" tvg-name="Sony Ten 1 HD" tvg-type="Sports" group-title="TS-JioTV Sports" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1 HD
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_162.m3u8
-
 #EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-type="Lifestyle" group-title="TS-JioTV Lifestyle" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_164_${catchup-id}_${start}_${stop}.m3u8",Travelxp HD
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_164.m3u8
 
@@ -197,16 +188,7 @@ http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_465.m3u8
 
 #EXTINF:-1 tvg-id="466" tvg-name="Dharma Sandesh" tvg-type="Devotional" group-title="TS-JioTV Devotional" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_466_${catchup-id}_${start}_${stop}.m3u8",Dharma Sandesh
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_466.m3u8
-
-#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_471_${catchup-id}_${start}_${stop}.m3u8",Sony SAB HD
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_471.m3u8
-
-#EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_474_${catchup-id}_${start}_${stop}.m3u8",Sony Pal
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_474.m3u8
-
-#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-type="Movies" group-title="TS-JioTV Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_476_${catchup-id}_${start}_${stop}.m3u8",Sony Max HD
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_476.m3u8
-
+  
 #EXTINF:-1 tvg-id="477" tvg-name="MN+ HD" tvg-type="Movies" group-title="TS-JioTV Movies" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png",MN+ HD
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_477.m3u8
 
@@ -218,9 +200,6 @@ http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_481.m3u8
 
 #EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-type="Movies" group-title="TS-JioTV Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_482_${catchup-id}_${start}_${stop}.m3u8",Colors Cineplex
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_482.m3u8
-
-#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-type="Movies" group-title="TS-JioTV Movies" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_483_${catchup-id}_${start}_${stop}.m3u8",Sony MAX2
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_483.m3u8
 
 #EXTINF:-1 tvg-id="486" tvg-name="Bhojpuri Cinema" tvg-type="Movies" group-title="TS-JioTV Movies" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png",Bhojpuri Cinema
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_486.m3u8
@@ -279,8 +258,6 @@ http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_512.m3u8
 #EXTINF:-1 tvg-id="513" tvg-name="India News Rajasthan" tvg-type="News" group-title="TS-JioTV News" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_513_${catchup-id}_${start}_${stop}.m3u8",India News Rajasthan
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_513.m3u8
 
-#EXTINF:-1 tvg-id="514" tvg-name="Sony Ten 1" tvg-type="Sports" group-title="TS-JioTV Sports" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Sony Ten 1
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_514.m3u8
 
 #EXTINF:-1 tvg-id="515" tvg-name="India News MP" tvg-type="News" group-title="TS-JioTV News" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_515_${catchup-id}_${start}_${stop}.m3u8",India News MP
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_515.m3u8
@@ -305,12 +282,6 @@ http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_522.m3u8
 
 #EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-type="Sports" group-title="TS-JioTV Sports" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_523.m3u8
-
-#EXTINF:-1 tvg-id="524" tvg-name="Sony Ten 3 Hindi" tvg-type="Sports" group-title="TS-JioTV Sports" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Sony Ten 3 Hindi
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_524.m3u8
-
-#EXTINF:-1 tvg-id="525" tvg-name="Sony Ten 5" tvg-type="Sports" group-title="TS-JioTV Sports" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Ten 5
-http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_525.m3u8
 
 #EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" catchup-days="7" catchup="auto" catchup-source="http://mini1.allinonereborn.xyz/jiotv-in192/app/catchup/ts_catchup_527_${catchup-id}_${start}_${stop}.m3u8",Investigation Discovery
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_527.m3u8
