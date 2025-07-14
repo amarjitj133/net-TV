@@ -51,6 +51,9 @@ http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_196.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_202.m3u8
 
+#EXTINF:-1 tvg-id="202" tvg-name="Star Jalsha" tvg-type="Entertainment" group-title="TS-JioTV Entertainment" tvg-language="bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",DD National
+http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="203" tvg-name="DD News" tvg-type="News" group-title="TS-JioTV News" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
 http://mini1.allinonereborn.xyz/jiotv-in192/app/ts_live_203.m3u8
 
