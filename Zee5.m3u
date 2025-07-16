@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="zeebiharjharkhand" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Zee_Bihar_Jharkhand.png/200px-Zee_Bihar_Jharkhand.png" group-title="Zee",Zee Bihar Jharkhand
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd|key_id=e1ec6098b5014ac7aae0b37f72d5e85e&key=c04950f25d8e4107a96e828e7911e53b
+
+#EXTINF:-1 tvg-id="zeekannada" tvg-name="Zee Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Zee_Kannada_logo.png/200px-Zee_Kannada_logo.png" group-title="Zee",Zee Kannada
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd|key_id=50e714b65ead453cbfab9b20bed5c79d&key=bc08e108b9ee4f65b99cb9dad9532f3f
+
+#EXTINF:-1 tvg-id="zeetv" tvg-name="Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Zee_TV_2023_Logo.png/200px-Zee_TV_2023_Logo.png" group-title="Zee",Zee TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd|key_id=ed068cf84f0640ccbc7c0e395c0a272e&key=bb722190f2bb446391020411a7d0828b
+
+#EXTINF:-1 tvg-id="zeetelugu" tvg-name="Zee Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Zee_Telugu_logo.png/200px-Zee_Telugu_logo.png" group-title="Zee",Zee Telugu
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd|key_id=1ce5cd75a6ad44a38a7d1b8dbaf9c330&key=657fc8e7d533456cb0644fe03458a4b2
+
+#EXTINF:-1 tvg-id="zeebangla" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Zee_Bangla_logo.png/200px-Zee_Bangla_logo.png" group-title="Zee",Zee Bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd|key_id=1df83e058b864da896c9288eef63b113&key=fc32f26239054b56aab48225305598fe
+
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Zee_Cinema_logo.png/200px-Zee_Cinema_logo.png" group-title="Zee",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd|key_id=43513b13f4b542e39c9265921dfc1726&key=b0b2678bcd274c37b888a6c987d502ed
+
+#EXTINF:-1 tvg-id="zeeanmol" tvg-name="Zee Anmol" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Zee_Anmol.png/200px-Zee_Anmol.png" group-title="Zee",Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd|key_id=4023613457774cbeb71a62c339970e63&key=1c3e9fce5f014542be9cd1f749181204
+
+#EXTINF:-1 tvg-id="zeebusiness" tvg-name="Zee Business" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Zee_Business_logo.png/200px-Zee_Business_logo.png" group-title="Zee",Zee Business
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd|key_id=bef87892e58c446d893b16a848703b70&key=51959fcbc8fe4091b570ba254bf749ae
+
+#EXTINF:-1 tvg-id="zeehindustan" tvg-name="Zee Hindustan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Zee_Hindustan_logo.png/200px-Zee_Hindustan_logo.png" group-title="Zee",Zee Hindustan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd|key_id=10616d7c4bee41f1825bd805c6295172&key=dc85f2112f63477fb39fc149493c49be
+
+#EXTINF:-1 tvg-id="andtv" tvg-name="&TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/And_TV_Logo.png/200px-And_TV_Logo.png" group-title="Zee",&TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd|key_id=26df86eeebb04d7fbc45c948f76e81fd&key=5f3a23f1a73c4c96ababce5fffe7b06b
+
+#EXTINF:-1 tvg-id="andpictures" tvg-name="&Pictures" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/And_Pictures_Logo.png/200px-And_Pictures_Logo.png" group-title="Zee",&Pictures
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd|key_id=8dea532cabfe4f71ba20f62310e7949f&key=7a214a974e4f4d1d9bb66364d5f0cb92
