@@ -1,0 +1,2684 @@
+<!-- Header Section -->
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preload" href="/fonts/poppins.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+	<title>
+		Stmify - Watch Live TV Channels Online | 4K & HD Streaming Anytime, Anywhere	</title>
+    <link rel="icon" href="https://stmify.com/wp-content/themes/stmify/assets/img/Stmify_icon.png" type="image/png" loading="lazy" alt="icon Image">
+	<!-- Google Analytics GA4 Tag(gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-F1CH5TQS42"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-F1CH5TQS42');
+	</script>
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v25.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Stmify - Watch Live TV Channels Online | 4K & HD Streaming Anytime, Anywhere</title>
+	<meta name="description" content="Stream your favorite live TV channels with Stmify. Enjoy high-quality streaming of top shows, movies, and sports in 4K, HD, and SD. Watch anytime, anywhere on any device." />
+	<link rel="canonical" href="https://stmify.com/" />
+	<link rel="next" href="https://stmify.com/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Stmify" />
+	<meta property="og:description" content="Experience seamless live TV streaming with Stmify! Watch your favorite channels in 4K & HD quality, anytime, anywhere. Join us and elevate your entertainment with the best in sports, movies, and shows." />
+	<meta property="og:url" content="https://stmify.com/" />
+	<meta property="og:site_name" content="Stmify" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://stmify.com/","url":"https://stmify.com/","name":"Stmify - Watch Live TV Channels Online | 4K & HD Streaming Anytime, Anywhere","isPartOf":{"@id":"https://stmify.com/#website"},"description":"Stream your favorite live TV channels with Stmify. Enjoy high-quality streaming of top shows, movies, and sports in 4K, HD, and SD. Watch anytime, anywhere on any device.","breadcrumb":{"@id":"https://stmify.com/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://stmify.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://stmify.com/#website","url":"https://stmify.com/","name":"Stmify","description":"Watch Live TV Channels Online | 4K & HD Streaming Anytime, Anywhere","alternateName":"StmEcho","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://stmify.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<meta name="msvalidate.01" content="D8AE08AECD08E45F4BE4B480BB11FC84" />
+	<meta name="google-site-verification" content="xEU2znTSAgF-WI5nDX44o-41ij156tK1YjlZJLfteyM" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.plyr.io' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/stmify.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://stmify.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='stmify-style-css' href='https://stmify.com/wp-content/themes/stmify/style.css?ver=1750353355' type='text/css' media='all' />
+<link rel='stylesheet' id='cdn-plyr-css' href='https://cdn.plyr.io/3.7.2/plyr.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stmify-font-awesome-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css?ver=5.15.4' type='text/css' media='all' />
+<style type="text/css">@font-face {font-family:Poppins;font-style:normal;font-weight:200;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/200/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:200;src:url(/cf-fonts/s/poppins/5.0.11/latin/200/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:200;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/200/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:300;src:url(/cf-fonts/s/poppins/5.0.11/latin/300/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:300;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/300/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:300;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/300/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:400;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/400/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:400;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/400/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:400;src:url(/cf-fonts/s/poppins/5.0.11/latin/400/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:500;src:url(/cf-fonts/s/poppins/5.0.11/latin/500/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:500;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/500/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:500;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/500/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:600;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/600/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:600;src:url(/cf-fonts/s/poppins/5.0.11/latin/600/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:600;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/600/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:700;src:url(/cf-fonts/s/poppins/5.0.11/latin/700/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:700;src:url(/cf-fonts/s/poppins/5.0.11/latin-ext/700/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Poppins;font-style:normal;font-weight:700;src:url(/cf-fonts/s/poppins/5.0.11/devanagari/700/normal.woff2);unicode-range:U+0900-097F,U+1CD0-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FF;font-display:swap;}</style>
+<link rel='stylesheet' id='stmify-player-css' href='https://stmify.com/wp-content/themes/stmify/assets/css/stmify-player.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='stmify-rating-css' href='https://stmify.com/wp-content/themes/stmify/assets/css/popup.css?ver=1.0.0' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://stmify.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://stmify.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.2" />
+    <style>
+		.pre-loader-6 {
+			border: 5px solid #1ed760;
+			border-top-color: transparent;
+		}
+		.content .links li a:hover,
+		.content .links li label:hover,
+		.content .current-menu-item a,
+		.flex-child-ft ul li a:hover,
+		.light .content .links li a:hover,
+		.light .content .links li label:hover,
+		.light .content .current-menu-item a,
+		.light .flex-child-ft ul li a:hover {
+			color: #1ed760 !important;
+		}
+		.search-box .post-type-select option:checked {
+			background-color: #1ed760;
+		}
+        .contact-info p a, .post_content a, a, .live-event a, .flex-child-ft p a, .ft-copyright a {
+            color: #1ed760;
+        }
+        .welcome h2 {
+            border-left: solid 3px #1ed760;
+        }
+        .container.welcome span a {
+            background-color: #1ed760;
+        }
+		.container.welcome .nav_items_module a i:hover {
+			color: #1ed760;
+		}
+		.content-wrapper .item-wrapper img, .fm-content .fm-item img, .archive-content .archive-item img, .blog-item-style img, .similar-posts img {
+			border: 2px solid #1ed760;
+		}
+		.img-wrapper .fa-play-circle {
+			color: #1ed760;
+		}
+		.premium-icon {
+			background-color: #ffcc00;
+		}
+		.quality-tag {
+			background-color: #874ed8;
+		}
+		.similar-posts .similar-post-text:hover h2, .item-wrapper:hover h2, .fm-item:hover h2, .archive-item:hover h2, 
+		.light .item-wrapper:hover h2, .light .fm-item:hover h2, .light .archive-item:hover h2, 
+		.content-wrapper .item-wrapper a:hover h2, .fm-content .fm-item a:hover h2, .archive-content .archive-item a:hover h2,
+		.blog-item-style:hover h2,
+		.light .blog-item-style:hover h2,
+		.post_infos li a:hover,
+		.light .post_infos li a:hover {
+			color: #1ed760 !important;
+		}
+		.social-icons a:hover,
+		.light .social-icons a:hover,
+		.post_content .social-icons a i:hover,
+		.light .post_content .social-icons a i:hover{
+			color: #1ed760 !important;
+		}
+		.sp_flex .image img, .left-section img {
+			border: 1px solid #1ed760;
+		}
+		.stars i {
+			color: #1ed760;
+		}
+		.stars i.selected {
+			color: gold;
+		}
+		.rating-value {
+			background-color: #1ed760;
+		}
+		.right-section i {
+			color: #1ed760;
+		}
+		.right-section #favorite-btn .remove {
+			color: gold;
+		}
+		h3, .contact-info h3, .contact-form h3 {
+			color: #1ed760;
+		}
+		.options {
+			border: 1px solid #1ed760;
+		}
+		.btn-show-form:hover i {
+			color: #1ed760;
+		}
+		video,
+		.iframe-container iframe {
+			border: 1px solid #1ed760;
+		}
+		.red-text {
+			color: red;
+		}
+		.iframe-specs #free:checked + label[for="free"], .iframe-specs #premium:checked + label[for="premium"] {
+			background-color: #1ed760;
+		}
+		.iframe-specs > label {
+			border: 1px solid #1ed760;
+		}
+		.iframe-specs .iframe-tabs input:checked + label,
+		.iframe-tabs2 input:checked + label		{
+			background-color: #1ed760;
+		}
+		.iframe-specs .iframe-head {
+			background-color: #1ed760;
+		}
+		.iframe-specs textarea {
+			border: 1px solid #1ed760;
+		}
+		.pagination a:hover,
+		.light .pagination a:hover,
+		.pagination .current {
+			background-color: #1ed760;
+		}
+		.pagination .current {
+			border: 1px solid #1ed760;
+		}
+		.cat a, .full_post_area .sidebar .author_about span {
+			background-color: #1ed760;
+		}
+		.cats ul li a:hover,
+		.light .cats ul li a:hover	{
+			background-color: #1ed760;
+		}
+		.comment-template .comment-form form input[type="text"]:hover,
+		.comment-template .comment-form form input[type="email"]:hover,
+		.comment-template .comment-form form input[type="url"]:hover,
+		.comment-template .comment-form form textarea:hover,
+		.light .comment-template .comment-form form input[type="text"]:hover,
+		.light .comment-template .comment-form form input[type="email"]:hover,
+		.light .comment-template .comment-form form input[type="url"]:hover,
+		.light .comment-template .comment-form form textarea:hover,
+		.light .comment-template .comment-form form textarea:hover {
+			border: 1px solid #1ed760 !important;
+		}
+		.comment-template .comment-form form input.submit {
+			background-color: #1ed760;
+		}
+    </style>
+    <script defer >(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://shebudriftaiter.net/tag.min.js',9072988,document.body||document.documentElement)</script>
+<script defer >(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('groleegni.net',9075344,document.createElement('script'))</script>
+    <script defer >(function(d,z,s){s.src='https://'+d+'/401/'+z;try{(document.body||document.documentElement).appendChild(s)}catch(e){}})('gizokraijaw.net',8480498,document.createElement('script'))</script></head>
+<body class="home blog wp-theme-stmify">
+	<div id="loader">
+		<div class="loader-container">
+			<div id="preloader">
+				<div class="pre-loader-6"></div>
+			</div>
+		</div>
+	</div><!-- #loader -->
+	<script>
+	// Preloader script
+	window.addEventListener("load", function() {
+		const loader = document.getElementById("loader");
+		const metaBanner = document.querySelector(".meta-banner");
+		const chatToggle = document.getElementById("chat-toggle");
+		const header = document.querySelector("header");
+		const main = document.querySelector("main");
+		const footer = document.querySelector("footer");
+
+		if (loader) {
+			loader.style.display = "none";
+		}
+
+		// Show banner img after preloader is hidden
+		if (metaBanner) {
+			metaBanner.style.display = "flex"; // or "block"
+		}
+
+		// Show chat icon after preloader is hidden
+		if (chatToggle) {
+			chatToggle.style.display = "flex"; // or "block"
+		}
+
+		// Show header, main, and footer after loading
+		if (header) {
+			header.style.display = "block";
+		}
+		if (main) {
+			main.style.display = "block";
+		}
+		if (footer) {
+			footer.style.display = "block";
+		}
+	});
+	</script>
+<header>
+  <div class="wrapper">
+    <nav role="navigation">
+      <input type="checkbox" id="show-menu">
+	  <div class="toggle-container">
+        <label for="show-menu" class="menu-icon"><i class="fas fa-bars"></i></label>
+	  </div>
+      <div class="content">
+		<div class="logo">
+		<a href="https://stmify.com/">
+				<img src="https://stmify.com/wp-content/themes/stmify/assets/img/Stmify_Logo_RGB_White-1.png" alt="Stmify Logo" class="logo" width="50" height="50" loading="lazy" decoding="async" fetchpriority="high">
+			</a>		</div>
+		
+            <div class="menu-container"><ul id="menu-header-menu" class="links"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3274"><a href="https://stmify.com/live-channel/">Live Channel</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="https://stmify.com/tv-genres/">Genres</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-715"><a href="https://stmify.com/tv-countries/">Countries</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-716"><a href="https://stmify.com/tv-languages/">Languages</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1056"><a href="https://stmify.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3288"><a href="https://stmify.com/translate/" class="translate">Translate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1679"><a href="https://stmify.com/login/" class="login">Login</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1680"><a href="https://stmify.com/register/" class="register">Register</a></li>
+</ul></div>			
+      </div>
+		<!-- Add this where you want the search form to appear -->
+		<input type="checkbox" id="show-search" class="show-search-checkbox">
+		<div class="button-container">
+			<label for="show-search" class="search-icon"><i class="fas fa-search"></i></label>
+			<div id="google_translate_element"></div>
+			<a href="https://stmify.com/translate/" class="btn-translate"><i class="fas fa-language"></i><span class="translate-text">Translate</span></a>
+							<a href="https://stmify.com/login/" class="btn-login"><i class="fas fa-sign-in-alt"></i><span class="login-text">Login</span></a>
+				<a href="https://stmify.com/register/" class="btn-register"><i class="fas fa-user-plus"></i><span class="register-text">Register</span></a>
+					</div>
+
+		<form action="https://stmify.com/" method="get" class="search-box">
+			<!-- Select Dropdown for Post Types -->
+			<select  id="location" name="post_type" class="post-type-select">
+				<option value="post">Post</option><option value="live-event">Live Event</option><option value="live-tv">Live TV</option><option value="fm-radio">Fm Radio</option>			</select>
+			<input id="searchInput" type="text" name="s" placeholder="Search Stmify" required>
+			<button type="submit" class="go-icon"><i class="fas fa-long-arrow-alt-right"></i></button>
+		</form>
+		
+    </nav>
+	<div id="search-results"></div>
+
+<script>
+var searchInput = document.getElementById('searchInput');
+var searchResults = document.getElementById('search-results');
+var postTypeSelect = document.getElementById('location'); // Dropdown for post type
+
+// Function to fetch results and handle empty search terms
+function fetchResults() {
+    var searchTerm = searchInput.value.trim(); // Ensure the input is trimmed
+    var postType = postTypeSelect.value; // Get selected post type
+
+    if (searchTerm === '') {
+        searchResults.innerHTML = ''; // Clear previous results
+        searchResults.style.display = 'none'; // Hide the results container
+        return;
+    }
+
+    searchResults.style.display = 'block'; // Show results container
+
+    // Simulate an AJAX call for fetching results
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', 'https://stmify.com/wp-admin/admin-ajax.php');
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            searchResults.innerHTML = xhr.responseText; // Populate results
+        }
+    };
+    xhr.send('action=live_search&searchTerm=' + encodeURIComponent(searchTerm) + '&postType=' + encodeURIComponent(postType));
+}
+
+// Event listener for input keyup
+searchInput.addEventListener('keyup', function() {
+    fetchResults();
+});
+
+// Event listener to hide results when clicking outside
+document.addEventListener('click', function(event) {
+    if (!searchInput.contains(event.target) && !searchResults.contains(event.target)) {
+        searchResults.style.display = 'none'; // Hide results container
+    }
+});
+</script>
+  </div>
+</header>
+
+<!-- Main Section -->
+<main class="home">
+	
+	<div class="hero lazy-bg" data-bg="https://stmify.com/wp-content/themes/stmify/assets/img/Stmify-bg.png">
+		<div class="event-container">
+									<div class="container welcome">
+				<h1>Welcome to Stmify!					<span class="text">Watch your favorite channels anytime.</span>
+				</h1>
+				<p>
+					Our official domain is <a href="https://stmify.com/" target="_blank">https://stmify.com/</a>. Please bookmark it, stay tuned, and continue supporting and sharing! ð
+<br>
+If the site is blocked or videos aren't playing smoothly, use a VPN for better access and streaming!
+<br>
+For Asian channels, connect via VPN in South Korea, Singapore, China, or Malaysia.
+<br>
+<a href="https://stmify.com/stmify-com-is-the-only-official-domain-for-stmify-network/" title="IMPORTANT - STMIFY.COM is the only new official domain for STMIFY Network">
+	<b>IMPORTANT - STMIFY.COM is the only official domain for STMIFY Network now.</b>
+</a>				</p>
+
+				<div>
+					<i class="fab fa-telegram-plane"></i> 
+							<a href="https://t.me/stmify" target="_blank">@stmify</a> | <i class="fab fa-twitter"></i> 
+							<a href="https://x.com/StmifyNetwork" target="_blank">Follow <strong>@StmifyNetwork</strong> for live TV events and exclusive broadcasts!ðº</a> | <i class="fab fa-facebook-f"></i> 
+							<a href="https://facebook.com/stmify.network" target="_blank">@stmify.network</a>				</div>
+			</div>
+						
+
+<div class="live-event"> 
+    <h2>ð¥ Live Event</h2> <a href="https://stmify.com/live-event/">more event...</a> 
+</div>
+
+<div class="event-wrapper">
+	<div class="container">
+										<input class="input" type="radio" name="slider" id="c1" checked>
+				<label for="c1" class="card lazy-bg" data-bg="https://stmify.com/wp-content/uploads/2025/03/520-s.webp">
+					<img 
+							class="live" 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/live/notlive.png" 
+							alt="Not Live" 
+							loading="lazy" 
+							width="40" height="40" 
+							decoding="async">					<div class="row">
+						<div class="icon">1</div>
+						<div class="description">
+						<a href="https://stmify.com/live-event/indian-premier-league-2025/">
+							<h2>Indian Premier League 2025</h2>
+						</a>
+												</div>
+					</div>
+											<img 
+							class="meta-banner" 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/website/updated.png" 
+							alt="Updated" 
+							loading="lazy" 
+							width="100" height="77" 
+							decoding="async">
+									</label>
+												<input class="input" type="radio" name="slider" id="c2" >
+				<label for="c2" class="card lazy-bg" data-bg="https://stmify.com/wp-content/uploads/2025/04/604-s.webp">
+					<img 
+							class="live" 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/live/notlive.png" 
+							alt="Not Live" 
+							loading="lazy" 
+							width="40" height="40" 
+							decoding="async">					<div class="row">
+						<div class="icon">2</div>
+						<div class="description">
+						<a href="https://stmify.com/live-event/pakistan-super-league-2025/">
+							<h2>Pakistan Super League 2025</h2>
+						</a>
+												</div>
+					</div>
+									</label>
+												<input class="input" type="radio" name="slider" id="c3" >
+				<label for="c3" class="card lazy-bg" data-bg="https://stmify.com/wp-content/uploads/2024/12/410-s.webp">
+					<img 
+							class="live" 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/live/notlive.png" 
+							alt="Not Live" 
+							loading="lazy" 
+							width="40" height="40" 
+							decoding="async">					<div class="row">
+						<div class="icon">3</div>
+						<div class="description">
+						<a href="https://stmify.com/live-event/icc-champions-trophy-2025/">
+							<h2>ICC Champions Trophy, 2025</h2>
+						</a>
+												</div>
+					</div>
+											<img 
+							class="meta-banner" 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/website/updated.png" 
+							alt="Updated" 
+							loading="lazy" 
+							width="100" height="77" 
+							decoding="async">
+									</label>
+												<input class="input" type="radio" name="slider" id="c4" >
+				<label for="c4" class="card lazy-bg" data-bg="https://stmify.com/wp-content/uploads/2025/01/469-s.webp">
+					<img 
+							class="live" 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/live/notlive.png" 
+							alt="Not Live" 
+							loading="lazy" 
+							width="40" height="40" 
+							decoding="async">					<div class="row">
+						<div class="icon">4</div>
+						<div class="description">
+						<a href="https://stmify.com/live-event/international-league-t20-2025/">
+							<h2>International League T20, 2025</h2>
+						</a>
+												</div>
+					</div>
+									</label>
+												<input class="input" type="radio" name="slider" id="c5" >
+				<label for="c5" class="card lazy-bg" data-bg="https://stmify.com/wp-content/uploads/2024/12/413-s.webp">
+					<img 
+							class="live" 
+							src="https://stmify.com/wp-content/themes/stmify/assets/img/live/notlive.png" 
+							alt="Not Live" 
+							loading="lazy" 
+							width="40" height="40" 
+							decoding="async">					<div class="row">
+						<div class="icon">5</div>
+						<div class="description">
+						<a href="https://stmify.com/live-event/bangladesh-premier-league-2024-25/">
+							<h2>Bangladesh Premier League, 2024-25</h2>
+						</a>
+												</div>
+					</div>
+									</label>
+					</div>
+</div>
+		</div>
+	</div>
+		
+
+		<div class="container welcome">
+			<h2>Recently added</h2>
+							<span>
+					574 
+					<a href="https://stmify.com/live-tv/" class="see-all">
+						See All					</a>
+				</span>
+			
+						<div class="nav_items_module">
+				<a class="btn prev1"><i class="fas fa-caret-left"></i></a>
+				<a class="btn next1"><i class="fas fa-caret-right"></i></a>
+			</div>
+					</div>
+		<div class="container front-item">
+			<div class="content-wrapper leatest-content1">
+							<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/kidzone-max/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/538-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="KidZone Max" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/538-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/538-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/538-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/538-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/538-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/538-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />															<img 
+									class="meta-banner" 
+									src="https://stmify.com/wp-content/themes/stmify/assets/img/website/updated.png" 
+									alt="Updated" 
+									loading="lazy" 
+									width="32" height="32" 
+									decoding="async">
+							
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/kidzone-max/">
+							<h2>KidZone Max</h2>
+						</a>
+					</div>
+				</div>
+						<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/mono29/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/618-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Mono29" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/618-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/618-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/618-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/618-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/618-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/618-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/618-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/618-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />							
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">SD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/mono29/">
+							<h2>Mono29</h2>
+						</a>
+					</div>
+				</div>
+						<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/andprive/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/617-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="&privÃ©" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/617-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/617-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/617-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/617-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/617-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/617-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/617-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/617-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />							
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/andprive/">
+							<h2>&privÃ©</h2>
+						</a>
+					</div>
+				</div>
+						<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/france-5/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/616-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="France 5" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/616-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/616-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/616-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/616-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/616-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/616-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/616-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/616-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />							
+															<img 
+									class="meta-banner" 
+									src="https://stmify.com/wp-content/themes/stmify/assets/img/website/requested.png" 
+									alt="Requested" 
+									loading="lazy" 
+									width="32" height="32" 
+									decoding="async">
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/france-5/">
+							<h2>France 5</h2>
+						</a>
+					</div>
+				</div>
+						<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/france-2/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/615-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="France 2" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/615-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/615-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/615-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/615-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/615-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/615-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/615-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/615-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />							
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/france-2/">
+							<h2>France 2</h2>
+						</a>
+					</div>
+				</div>
+						<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/comedy-central/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/318-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Comedy Central" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/318-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/318-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/318-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/318-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/318-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/318-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />															<img 
+									class="meta-banner" 
+									src="https://stmify.com/wp-content/themes/stmify/assets/img/website/updated.png" 
+									alt="Updated" 
+									loading="lazy" 
+									width="32" height="32" 
+									decoding="async">
+							
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/comedy-central/">
+							<h2>Comedy Central</h2>
+						</a>
+					</div>
+				</div>
+						<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/dmax/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/10/164-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="DMAX" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/164-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/10/164-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/10/164-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/164-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/10/164-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/10/164-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />															<img 
+									class="meta-banner" 
+									src="https://stmify.com/wp-content/themes/stmify/assets/img/website/updated.png" 
+									alt="Updated" 
+									loading="lazy" 
+									width="32" height="32" 
+									decoding="async">
+							
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/dmax/">
+							<h2>DMAX</h2>
+						</a>
+					</div>
+				</div>
+						<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/tv-joj/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/614-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="TV JOJ" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/614-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/614-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/614-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/614-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/614-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/614-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/614-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/614-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />							
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/tv-joj/">
+							<h2>TV JOJ</h2>
+						</a>
+					</div>
+				</div>
+						<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/rtl/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/613-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="RTL" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/613-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/613-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/613-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/613-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/613-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/613-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/613-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/613-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />							
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">SD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/rtl/">
+							<h2>RTL</h2>
+						</a>
+					</div>
+				</div>
+						<div class="item-wrapper leatest-item1">
+					<div class="img-wrapper">
+						<a href="https://stmify.com/live-tv/das-erste/">
+														<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/612-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Das Erste" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/612-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/612-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/612-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/612-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/612-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/612-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/612-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/612-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />							
+							
+							<i class="fa fa-play-circle"></i>
+						</a>
+					</div>
+					<span class="quality-tag">HD</span>					<div class="all-content-title">
+						<a href="https://stmify.com/live-tv/das-erste/">
+							<h2>Das Erste</h2>
+						</a>
+					</div>
+				</div>
+					</div>
+		</div>
+	
+	
+
+		
+		<div class="container welcome">
+			<h2>Trending Channel</h2>
+			<span>54 <a href="https://stmify.com/trending/" class="see-all">See All</a></span>
+						<div class="nav_items_module">
+				<a class="btn prev2"><i class="fas fa-caret-left"></i></a>
+				<a class="btn next2"><i class="fas fa-caret-right"></i></a>
+			</div>
+					</div>
+		<div class="container front-item">
+			<div class="content-wrapper leatest-content2">
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/sun-bangla/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/284-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Sun Bangla" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/284-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/284-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/284-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/284-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/284-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/284-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/sun-bangla/">
+            <h2>Sun Bangla</h2>
+        </a>
+    </div>
+
+    				</div>
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/trvl-channel/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/08/63-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Travel Channel" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/63-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/08/63-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/08/63-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/63-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/08/63-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/08/63-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/trvl-channel/">
+            <h2>Travel Channel</h2>
+        </a>
+    </div>
+
+    				</div>
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/national-geographic-wild/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/09/40-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="National Geographic Wild" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/09/40-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/09/40-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/09/40-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/09/40-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/09/40-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/09/40-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/national-geographic-wild/">
+            <h2>National Geographic Wild</h2>
+        </a>
+    </div>
+
+    				</div>
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/dlife/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/10/256-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Dlife" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/256-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/10/256-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/10/256-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/256-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/10/256-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/10/256-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/dlife/">
+            <h2>Dlife</h2>
+        </a>
+    </div>
+
+    				</div>
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/ruposhi-bangla/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/09/138-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Ruposhi Bangla" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/09/138-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/09/138-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/09/138-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/09/138-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/09/138-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/09/138-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/ruposhi-bangla/">
+            <h2>Ruposhi Bangla</h2>
+        </a>
+    </div>
+
+    				</div>
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/hbo/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/10/236-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="HBO" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/236-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/10/236-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/10/236-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/236-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/10/236-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/10/236-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/hbo/">
+            <h2>HBO</h2>
+        </a>
+    </div>
+
+    				</div>
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/canal-hollywood/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/12/396-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Canal Hollywood" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/12/396-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/12/396-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/12/396-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/12/396-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/12/396-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/12/396-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/canal-hollywood/">
+            <h2>Canal Hollywood</h2>
+        </a>
+    </div>
+
+    				</div>
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/khushboo-bangla/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/09/36-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Khushboo Bangla" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/09/36-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/09/36-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/09/36-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/09/36-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/09/36-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/09/36-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/khushboo-bangla/">
+            <h2>Khushboo Bangla</h2>
+        </a>
+    </div>
+
+    				</div>
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/hbo-hits/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/10/237-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="HBO Hits" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/237-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/10/237-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/10/237-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/237-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/10/237-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/10/237-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/hbo-hits/">
+            <h2>HBO Hits</h2>
+        </a>
+    </div>
+
+    				</div>
+								<div class="item-wrapper leatest-item2">
+					
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/national-geographic/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/09/46-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="National Geographic" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/09/46-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/09/46-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/09/46-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/09/46-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/09/46-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/09/46-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/national-geographic/">
+            <h2>National Geographic</h2>
+        </a>
+    </div>
+
+    				</div>
+							</div>
+		</div>
+	
+	
+
+  
+    <div class="container welcome">
+        <h2>4K Channel</h2>
+        <span>9 <a href="https://stmify.com/4k/" class="see-all">See All</a></span>
+                <div class="nav_items_module">
+            <a class="btn prev3"><i class="fas fa-caret-left"></i></a>
+            <a class="btn next3"><i class="fas fa-caret-right"></i></a>
+        </div>
+            </div>
+    <div class="container front-item">
+        <div class="content-wrapper leatest-content3">
+                        <div class="item-wrapper leatest-item3">
+                <div class="img-wrapper">
+                    <a href="https://stmify.com/live-tv/star-gold/">
+                        						<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/08/77-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Star Gold" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/77-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/08/77-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/08/77-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/77-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/08/77-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/08/77-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                    </a>
+                </div>
+                <span class="quality-tag">4K</span>
+				<div class="all-content-title">
+					<a href="https://stmify.com/live-tv/star-gold/">
+						<h2>Star Gold</h2>
+					</a>
+				</div>
+            </div>
+                        <div class="item-wrapper leatest-item3">
+                <div class="img-wrapper">
+                    <a href="https://stmify.com/live-tv/sony-max/">
+                        						<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/08/108-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Sony MAX" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/108-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/08/108-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/08/108-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/108-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/08/108-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/08/108-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                    </a>
+                </div>
+                <span class="quality-tag">4K</span>
+				<div class="all-content-title">
+					<a href="https://stmify.com/live-tv/sony-max/">
+						<h2>Sony MAX</h2>
+					</a>
+				</div>
+            </div>
+                        <div class="item-wrapper leatest-item3">
+                <div class="img-wrapper">
+                    <a href="https://stmify.com/live-tv/discovery/">
+                        						<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/08/4-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Discovery" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/4-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/08/4-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/08/4-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/4-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/08/4-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/08/4-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                    </a>
+                </div>
+                <span class="quality-tag">4K</span>
+				<div class="all-content-title">
+					<a href="https://stmify.com/live-tv/discovery/">
+						<h2>Discovery</h2>
+					</a>
+				</div>
+            </div>
+                        <div class="item-wrapper leatest-item3">
+                <div class="img-wrapper">
+                    <a href="https://stmify.com/live-tv/star-gold-select/">
+                        						<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/08/96-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Star Gold Select" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/96-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/08/96-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/08/96-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/96-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/08/96-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/08/96-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                    </a>
+                </div>
+                <span class="quality-tag">4K</span>
+				<div class="all-content-title">
+					<a href="https://stmify.com/live-tv/star-gold-select/">
+						<h2>Star Gold Select</h2>
+					</a>
+				</div>
+            </div>
+                        <div class="item-wrapper leatest-item3">
+                <div class="img-wrapper">
+                    <a href="https://stmify.com/live-tv/sony-sports-ten-2/">
+                        						<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/08/82-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Sony Sports Ten 2" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/82-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/08/82-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/08/82-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/82-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/08/82-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/08/82-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                    </a>
+                </div>
+                <span class="quality-tag">4K</span>
+				<div class="all-content-title">
+					<a href="https://stmify.com/live-tv/sony-sports-ten-2/">
+						<h2>Sony Sports Ten 2</h2>
+					</a>
+				</div>
+            </div>
+                        <div class="item-wrapper leatest-item3">
+                <div class="img-wrapper">
+                    <a href="https://stmify.com/live-tv/vh1/">
+                        						<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/09/141-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="VH1" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/09/141-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/09/141-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/09/141-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/09/141-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/09/141-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/09/141-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                    </a>
+                </div>
+                <span class="quality-tag">4K</span>
+				<div class="all-content-title">
+					<a href="https://stmify.com/live-tv/vh1/">
+						<h2>VH1</h2>
+					</a>
+				</div>
+            </div>
+                        <div class="item-wrapper leatest-item3">
+                <div class="img-wrapper">
+                    <a href="https://stmify.com/live-tv/love-nature/">
+                        						<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/10/179-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Love Nature" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/179-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/10/179-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/10/179-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/179-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/10/179-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/10/179-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                    </a>
+                </div>
+                <span class="quality-tag">4K</span>
+				<div class="all-content-title">
+					<a href="https://stmify.com/live-tv/love-nature/">
+						<h2>Love Nature</h2>
+					</a>
+				</div>
+            </div>
+                        <div class="item-wrapper leatest-item3">
+                <div class="img-wrapper">
+                    <a href="https://stmify.com/live-tv/4k-travel/">
+                        						<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/354-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="4K Travel" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/354-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/354-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/354-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/354-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/354-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/354-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                    </a>
+                </div>
+                <span class="quality-tag">4K</span>
+				<div class="all-content-title">
+					<a href="https://stmify.com/live-tv/4k-travel/">
+						<h2>4K Travel</h2>
+					</a>
+				</div>
+            </div>
+                        <div class="item-wrapper leatest-item3">
+                <div class="img-wrapper">
+                    <a href="https://stmify.com/live-tv/odisea/">
+                        						<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/01/420-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Odisea" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/01/420-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/01/420-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/01/420-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/01/420-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/01/420-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/01/420-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />						<i class="fa fa-play-circle"></i>
+                    </a>
+                </div>
+                <span class="quality-tag">4K</span>
+				<div class="all-content-title">
+					<a href="https://stmify.com/live-tv/odisea/">
+						<h2>Odisea</h2>
+					</a>
+				</div>
+            </div>
+                    </div>
+    </div>
+
+		
+<div class="container welcome"><h2>News Channel</h2><span>29 <a href='https://stmify.com/tv-genre/news/' class='see-all'>See All</a></span><div class="nav_items_module"><a class="btn prev4" data-genre="news"><i class="fas fa-caret-left"></i></a><a class="btn next4" data-genre="news"><i class="fas fa-caret-right"></i></a></div></div><div class="container front-item">
+                <div class="content-wrapper leatest-content4"><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/nbc-miami/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/585-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="NBC Miami" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/585-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/585-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/585-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/585-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/585-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/585-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/nbc-miami/">
+            <h2>NBC Miami</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/abc-australia/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/574-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="ABC Australia" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/574-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/574-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/574-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/574-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/574-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/574-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/abc-australia/">
+            <h2>ABC Australia</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/inews/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/563-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="iNews" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/563-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/563-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/563-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/563-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/563-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/563-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/inews/">
+            <h2>iNews</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/phoenix-infonews/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/561-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Phoenix InfoNews" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/561-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/561-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/561-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/561-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/561-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/561-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/phoenix-infonews/">
+            <h2>Phoenix InfoNews</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/nhk-world-japan/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/560-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="NHK World-Japan" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/560-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/560-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/560-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/560-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/560-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/560-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/nhk-world-japan/">
+            <h2>NHK World-Japan</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/france-24/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/559-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="France 24" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/559-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/559-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/559-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/559-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/559-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/559-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/france-24/">
+            <h2>France 24</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/times-now/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/523-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Times Now" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/523-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/523-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/523-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/523-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/523-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/523-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/times-now/">
+            <h2>Times Now</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/nbc10-boston/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/02/507-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="NBC10 Boston" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/02/507-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/02/507-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/02/507-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/02/507-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/02/507-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/02/507-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/nbc10-boston/">
+            <h2>NBC10 Boston</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/nbc/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/02/496-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="WNBC" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/02/496-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/02/496-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/02/496-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/02/496-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/02/496-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/02/496-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/nbc/">
+            <h2>WNBC</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item4">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/geo-news/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/10/223-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Geo News" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/223-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/10/223-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/10/223-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/223-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/10/223-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/10/223-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/geo-news/">
+            <h2>Geo News</h2>
+        </a>
+    </div>
+
+    </div></div>
+            </div><div class="container welcome"><h2>Entertainment Channel</h2><span>120 <a href='https://stmify.com/tv-genre/entertainment/' class='see-all'>See All</a></span><div class="nav_items_module"><a class="btn prev5" data-genre="entertainment"><i class="fas fa-caret-left"></i></a><a class="btn next5" data-genre="entertainment"><i class="fas fa-caret-right"></i></a></div></div><div class="container front-item">
+                <div class="content-wrapper leatest-content5"><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/france-2/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/615-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="France 2" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/615-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/615-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/615-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/615-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/615-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/615-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/615-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/615-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/france-2/">
+            <h2>France 2</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/comedy-central/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/318-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Comedy Central" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/318-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/318-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/318-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/318-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/318-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/318-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/comedy-central/">
+            <h2>Comedy Central</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/tv-joj/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/614-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="TV JOJ" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/614-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/614-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/614-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/614-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/614-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/614-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/614-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/614-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/tv-joj/">
+            <h2>TV JOJ</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/das-erste/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/612-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Das Erste" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/612-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/612-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/612-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/612-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/612-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/612-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/612-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/612-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/das-erste/">
+            <h2>Das Erste</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/zdf/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/611-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="ZDF" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/611-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/611-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/611-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/611-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/611-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/611-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/611-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/611-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/zdf/">
+            <h2>ZDF</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/france-3/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/481-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="France 3" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/481-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/481-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/481-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/481-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/481-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/481-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/481-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/481-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/france-3/">
+            <h2>France 3</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/itv2/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/610-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="ITV2" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/610-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/610-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/610-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/610-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/610-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/610-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/610-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/610-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/itv2/">
+            <h2>ITV2</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/colors-tv/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/594-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Colors TV" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/594-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/594-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/594-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/594-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/594-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/594-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/colors-tv/">
+            <h2>Colors TV</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/rai-italia/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/591-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Rai Italia" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/591-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/591-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/591-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/591-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/591-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/591-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/rai-italia/">
+            <h2>Rai Italia</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item5">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/universal-reality/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/590-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Universal Reality" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/590-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/590-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/590-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/590-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/590-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/590-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/universal-reality/">
+            <h2>Universal Reality</h2>
+        </a>
+    </div>
+
+    </div></div>
+            </div><div class="container welcome"><h2>Infotainment Channel</h2><span>45 <a href='https://stmify.com/tv-genre/infotainment/' class='see-all'>See All</a></span><div class="nav_items_module"><a class="btn prev6" data-genre="infotainment"><i class="fas fa-caret-left"></i></a><a class="btn next6" data-genre="infotainment"><i class="fas fa-caret-right"></i></a></div></div><div class="container front-item">
+                <div class="content-wrapper leatest-content6"><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/france-5/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/616-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="France 5" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/616-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/616-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/616-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/616-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/616-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/616-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/616-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/616-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/france-5/">
+            <h2>France 5</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/dmax/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/10/164-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="DMAX" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/164-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/10/164-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/10/164-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/164-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/10/164-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/10/164-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/dmax/">
+            <h2>DMAX</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/national-geographic-wild/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/09/40-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="National Geographic Wild" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/09/40-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/09/40-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/09/40-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/09/40-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/09/40-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/09/40-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/national-geographic-wild/">
+            <h2>National Geographic Wild</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/cgtn-documentary/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/593-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="CGTN Documentary" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/593-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/593-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/593-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/593-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/593-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/593-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/cgtn-documentary/">
+            <h2>CGTN Documentary</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/asharq-discovery/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/551-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Asharq Discovery" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/551-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/551-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/551-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/551-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/551-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/551-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/asharq-discovery/">
+            <h2>Asharq Discovery</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/lx-home/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/531-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="LX Home" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/531-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/531-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/531-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/531-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/531-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/531-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/lx-home/">
+            <h2>LX Home</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/bbc-lifestyle/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/275-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="BBC Lifestyle" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/275-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/275-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/275-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/275-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/275-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/275-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/bbc-lifestyle/">
+            <h2>BBC Lifestyle</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/history-2/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/09/133-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="History2" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/09/133-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/09/133-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/09/133-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/09/133-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/09/133-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/09/133-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/history-2/">
+            <h2>History2</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/viasat-nature/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/02/506-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Viasat Nature" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/02/506-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/02/506-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/02/506-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/02/506-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/02/506-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/02/506-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/viasat-nature/">
+            <h2>Viasat Nature</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item6">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/geo-television/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/02/505-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Geo Television" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/02/505-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/02/505-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/02/505-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/02/505-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/02/505-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/02/505-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/geo-television/">
+            <h2>Geo Television</h2>
+        </a>
+    </div>
+
+    </div></div>
+            </div><div class="container welcome"><h2>Kids Channel</h2><span>51 <a href='https://stmify.com/tv-genre/kids/' class='see-all'>See All</a></span><div class="nav_items_module"><a class="btn prev7" data-genre="kids"><i class="fas fa-caret-left"></i></a><a class="btn next7" data-genre="kids"><i class="fas fa-caret-right"></i></a></div></div><div class="container front-item">
+                <div class="content-wrapper leatest-content7"><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/kidzone-max/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/538-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="KidZone Max" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/538-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/538-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/538-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/538-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/538-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/538-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/kidzone-max/">
+            <h2>KidZone Max</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/cbeebies/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/02/510-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="BBC 4 – CBeebies" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/02/510-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/02/510-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/02/510-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/02/510-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/02/510-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/02/510-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/cbeebies/">
+            <h2>BBC 4 – CBeebies</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/rai-gulp/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/609-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Rai Gulp" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/609-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/609-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/609-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/609-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/609-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/609-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/609-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/609-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/rai-gulp/">
+            <h2>Rai Gulp</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/jimjam/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/603-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="JimJam" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/603-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/603-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/603-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/603-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/603-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/603-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/jimjam/">
+            <h2>JimJam</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/stc-tv-family/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/596-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="stc tv Family" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/596-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/596-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/596-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/596-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/596-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/596-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/stc-tv-family/">
+            <h2>stc tv Family</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/nicktoons/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/330-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Nicktoons" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/330-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/330-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/330-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/330-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/330-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/330-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/nicktoons/">
+            <h2>Nicktoons</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/disney-xd/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/327-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Disney XD" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/327-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/327-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/327-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/327-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/327-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/327-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/disney-xd/">
+            <h2>Disney XD</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/disney-jr/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/10/185-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Disney Jr." loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/185-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/10/185-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/10/185-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/185-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/10/185-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/10/185-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/disney-jr/">
+            <h2>Disney Jr.</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/disney-channel/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/10/166-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Disney Channel" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/166-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/10/166-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/10/166-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/166-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/10/166-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/10/166-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/disney-channel/">
+            <h2>Disney Channel</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item7">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/ytv/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/573-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="YTV" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/573-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/573-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/573-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/573-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/573-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/573-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/ytv/">
+            <h2>YTV</h2>
+        </a>
+    </div>
+
+    </div></div>
+            </div><div class="container welcome"><h2>Movies Channel</h2><span>163 <a href='https://stmify.com/tv-genre/movies/' class='see-all'>See All</a></span><div class="nav_items_module"><a class="btn prev8" data-genre="movies"><i class="fas fa-caret-left"></i></a><a class="btn next8" data-genre="movies"><i class="fas fa-caret-right"></i></a></div></div><div class="container front-item">
+                <div class="content-wrapper leatest-content8"><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/mono29/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/05/618-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Mono29" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/05/618-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/05/618-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/05/618-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/05/618-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/05/618-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/05/618-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/05/618-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/05/618-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/mono29/">
+            <h2>Mono29</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/sony-movies/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/08/60-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Sony Movies" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/60-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/08/60-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/08/60-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/60-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/08/60-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/08/60-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/sony-movies/">
+            <h2>Sony Movies</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/asian-hits/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/608-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Asian Hits" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/608-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/04/608-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/608-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/608-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/608-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/608-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/04/608-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/04/608-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/asian-hits/">
+            <h2>Asian Hits</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/mono29-plus/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/607-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="MONO29 Plus" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/607-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/04/607-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/607-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/607-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/607-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/607-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/04/607-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/04/607-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/mono29-plus/">
+            <h2>MONO29 Plus</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/star-crime/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/323-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Star Crime" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/323-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/323-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/323-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/323-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/323-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/323-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/star-crime/">
+            <h2>Star Crime</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/filmbox-extra/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/605-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="FilmBox Extra" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/605-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/04/605-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/605-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/605-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/605-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/605-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/04/605-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/04/605-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/filmbox-extra/">
+            <h2>FilmBox Extra</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/axn-white/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/602-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="AXN White" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/602-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/602-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/602-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/602-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/602-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/602-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/axn-white/">
+            <h2>AXN White</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/axn-black/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/601-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="AXN Black" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/601-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/601-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/601-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/601-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/601-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/601-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/axn-black/">
+            <h2>AXN Black</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/cinemax-2/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/600-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Cinemax 2" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/600-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/600-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/600-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/600-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/600-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/600-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/cinemax-2/">
+            <h2>Cinemax 2</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item8">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/hbo3/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/358-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="HBO3" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/358-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/358-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/358-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/358-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/358-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/358-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/hbo3/">
+            <h2>HBO3</h2>
+        </a>
+    </div>
+
+    </div></div>
+            </div><div class="container welcome"><h2>Music Channel</h2><span>26 <a href='https://stmify.com/tv-genre/music/' class='see-all'>See All</a></span><div class="nav_items_module"><a class="btn prev9" data-genre="music"><i class="fas fa-caret-left"></i></a><a class="btn next9" data-genre="music"><i class="fas fa-caret-right"></i></a></div></div><div class="container front-item">
+                <div class="content-wrapper leatest-content9"><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/club-mtv/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/12/408-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Club MTV" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/12/408-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/12/408-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/12/408-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/12/408-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/12/408-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/12/408-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/club-mtv/">
+            <h2>Club MTV</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/mtv-80s/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/12/400-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="MTV 80s" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/12/400-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/12/400-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/12/400-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/12/400-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/12/400-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/12/400-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/mtv-80s/">
+            <h2>MTV 80s</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/mtv-00s/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/12/401-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="MTV 00s" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/12/401-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/12/401-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/12/401-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/12/401-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/12/401-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/12/401-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/mtv-00s/">
+            <h2>MTV 00s</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/mtv-hits/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/12/399-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="MTV Hits" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/12/399-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/12/399-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/12/399-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/12/399-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/12/399-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/12/399-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/mtv-hits/">
+            <h2>MTV Hits</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/mtv/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/12/374-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="MTV" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/12/374-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/12/374-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/12/374-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/12/374-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/12/374-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/12/374-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/mtv/">
+            <h2>MTV</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/deluxe-music/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/557-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Deluxe Music" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/557-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/557-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/557-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/557-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/557-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/557-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/deluxe-music/">
+            <h2>Deluxe Music</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/mtv-live/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/11/315-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="MTV Live" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/11/315-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/11/315-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/11/315-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/11/315-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/11/315-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/11/315-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/mtv-live/">
+            <h2>MTV Live</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/sangeet-bhojpuri/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/01/491-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Sangeet Bhojpuri" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/01/491-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/01/491-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/01/491-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/01/491-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/01/491-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/01/491-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/sangeet-bhojpuri/">
+            <h2>Sangeet Bhojpuri</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/mtv-beats/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/01/460-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="MTV Beats" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/01/460-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/01/460-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/01/460-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/01/460-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/01/460-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/01/460-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/mtv-beats/">
+            <h2>MTV Beats</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item9">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/9x-jalwa/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2024/09/149-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="9X Jalwa" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/09/149-s.webp 1920w, https://stmify.com/wp-content/uploads/2024/09/149-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2024/09/149-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2024/09/149-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2024/09/149-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2024/09/149-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/9x-jalwa/">
+            <h2>9X Jalwa</h2>
+        </a>
+    </div>
+
+    </div></div>
+            </div><div class="container welcome"><h2>Sports Channel</h2><span>131 <a href='https://stmify.com/tv-genre/sports/' class='see-all'>See All</a></span><div class="nav_items_module"><a class="btn prev10" data-genre="sports"><i class="fas fa-caret-left"></i></a><a class="btn next10" data-genre="sports"><i class="fas fa-caret-right"></i></a></div></div><div class="container front-item">
+                <div class="content-wrapper leatest-content10"><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/arena-esport/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/606-s-220x124.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Arena Esport" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/606-s-220x124.webp 220w, https://stmify.com/wp-content/uploads/2025/04/606-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/606-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/606-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/606-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/606-s-720x405.webp 720w, https://stmify.com/wp-content/uploads/2025/04/606-s-150x84.webp 150w, https://stmify.com/wp-content/uploads/2025/04/606-s.webp 1920w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">SD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/arena-esport/">
+            <h2>Arena Esport</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/real-madrid-tv/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/592-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="Real Madrid TV" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/592-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/592-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/592-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/592-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/592-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/592-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/real-madrid-tv/">
+            <h2>Real Madrid TV</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/nbc-sports-philadelphia/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/584-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="NBC Sports Philadelphia" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/584-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/584-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/584-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/584-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/584-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/584-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/nbc-sports-philadelphia/">
+            <h2>NBC Sports Philadelphia</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/nbc-sports-bay-area/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/04/583-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="NBC Sports Bay Area" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/04/583-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/04/583-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/04/583-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/04/583-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/04/583-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/04/583-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/nbc-sports-bay-area/">
+            <h2>NBC Sports Bay Area</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/nbc-sports-boston/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/582-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="NBC Sports Boston" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/582-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/582-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/582-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/582-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/582-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/582-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/nbc-sports-boston/">
+            <h2>NBC Sports Boston</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/tsn5/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/580-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="TSN5" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/580-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/580-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/580-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/580-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/580-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/580-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/tsn5/">
+            <h2>TSN5</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/tsn4/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/579-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="TSN4" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/579-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/579-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/579-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/579-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/579-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/579-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/tsn4/">
+            <h2>TSN4</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/tsn3/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/578-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="TSN3" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/578-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/578-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/578-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/578-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/578-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/578-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/tsn3/">
+            <h2>TSN3</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/tsn2/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/577-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="TSN2" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/577-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/577-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/577-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/577-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/577-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/577-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/tsn2/">
+            <h2>TSN2</h2>
+        </a>
+    </div>
+
+    </div><div class="item-wrapper leatest-item10">
+    <div class="img-wrapper">
+        <a href="https://stmify.com/live-tv/tsn1/">
+            			<img width="220" height="124" src="https://stmify.com/wp-content/uploads/2025/03/576-s.webp" class="attachment-live-tv size-live-tv wp-post-image wp-post-image" alt="TSN1" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2025/03/576-s.webp 1920w, https://stmify.com/wp-content/uploads/2025/03/576-s-300x169.webp 300w, https://stmify.com/wp-content/uploads/2025/03/576-s-1024x576.webp 1024w, https://stmify.com/wp-content/uploads/2025/03/576-s-768x432.webp 768w, https://stmify.com/wp-content/uploads/2025/03/576-s-1536x864.webp 1536w, https://stmify.com/wp-content/uploads/2025/03/576-s-150x84.webp 150w" sizes="auto, (max-width: 220px) 100vw, 220px" />			<i class="fa fa-play-circle"></i>
+        </a>
+    </div>
+
+            <span class="quality-tag">HD</span>
+    
+    <div class="all-content-title">
+        <a href="https://stmify.com/live-tv/tsn1/">
+            <h2>TSN1</h2>
+        </a>
+    </div>
+
+    </div></div>
+            </div>		
+
+	<div class="container welcome">
+        <h2>FM Radio</h2>
+        <span>14 <a href="https://stmify.com/fm-radio/" class="see-all">See All</a></span>
+				<div class="nav_items_module">
+			<a class="btn prev11"><i class="fas fa-caret-left"></i></a>
+			<a class="btn next11"><i class="fas fa-caret-right"></i></a>
+		</div>
+		    </div>
+	<div class="container front-item">
+		<div class="fm-content">
+						<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/la-mega-97-9-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/09/124-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="La Mega 97.9 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/09/124-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/09/124-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/09/124-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/09/124-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/09/124-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/09/124-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />													<img 
+								class="meta-banner" 
+								src="https://stmify.com/wp-content/themes/stmify/assets/img/website/updated.png" 
+								alt="Updated" 
+								loading="lazy" 
+								width="32" height="32" 
+								decoding="async">
+						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/la-mega-97-9-fm/">
+						<h2>La Mega 97.9 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/fox-news-radio/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/10/258-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="FOX News Radio" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/10/258-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/10/258-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/10/258-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/10/258-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/10/258-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/10/258-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/fox-news-radio/">
+						<h2>FOX News Radio</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/106-1-hum-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/75-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="106.1 HUM FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/75-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/75-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/75-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/75-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/75-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/75-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/106-1-hum-fm/">
+						<h2>106.1 HUM FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/radio-mirchi-98-3-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/39-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="Radio Mirchi 98.3 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/39-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/39-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/39-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/39-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/39-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/39-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/radio-mirchi-98-3-fm/">
+						<h2>Radio Mirchi 98.3 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/radio-madhuban-107-8-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/18-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="Radio Madhuban 107.8 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/18-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/18-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/18-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/18-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/18-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/18-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/radio-madhuban-107-8-fm/">
+						<h2>Radio Madhuban 107.8 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/radio-choklate-104-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/17-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="Radio Choklate 104 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/17-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/17-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/17-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/17-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/17-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/17-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/radio-choklate-104-fm/">
+						<h2>Radio Choklate 104 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/fm-107-urdu-radio/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/16-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="FM 107 Urdu Radio" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/16-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/16-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/16-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/16-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/16-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/16-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/fm-107-urdu-radio/">
+						<h2>FM 107 Urdu Radio</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/radio-dhoom-89-6-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/15-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="Radio Dhoom 89.6 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/15-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/15-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/15-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/15-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/15-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/15-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/radio-dhoom-89-6-fm/">
+						<h2>Radio Dhoom 89.6 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/radio-pragya-90-4-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/14-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="Radio Pragya 90.4 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/14-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/14-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/14-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/14-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/14-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/14-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/radio-pragya-90-4-fm/">
+						<h2>Radio Pragya 90.4 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/city-1016-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/13-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="City 1016 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/13-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/13-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/13-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/13-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/13-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/13-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/city-1016-fm/">
+						<h2>City 1016 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/radio-gupshup-94-3-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/12-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="Radio GupShup 94.3 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/12-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/12-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/12-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/12-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/12-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/12-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/radio-gupshup-94-3-fm/">
+						<h2>Radio GupShup 94.3 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/ishq-104-8-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/11-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="Ishq 104.8 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/11-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/11-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/11-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/11-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/11-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/11-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/ishq-104-8-fm/">
+						<h2>Ishq 104.8 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/radio-city-91-1-fm/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/5-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="Radio City 91.1 FM" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/5-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/5-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/5-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/5-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/5-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/5-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/radio-city-91-1-fm/">
+						<h2>Radio City 91.1 FM</h2>
+					</a>
+				</div>
+			</div>
+					<div class="fm-item">
+				<div class="img-wrapper">
+					<a href="https://stmify.com/fm-radio/big-fm-92-7/">
+												<img width="225" height="225" src="https://stmify.com/wp-content/uploads/2024/08/3-s.webp" class="attachment-fm-radio size-fm-radio wp-post-image wp-post-image" alt="BIG FM 92.7" loading="lazy" decoding="async" fetchpriority="low" srcset="https://stmify.com/wp-content/uploads/2024/08/3-s.webp 1080w, https://stmify.com/wp-content/uploads/2024/08/3-s-300x300.webp 300w, https://stmify.com/wp-content/uploads/2024/08/3-s-1024x1024.webp 1024w, https://stmify.com/wp-content/uploads/2024/08/3-s-150x150.webp 150w, https://stmify.com/wp-content/uploads/2024/08/3-s-768x768.webp 768w, https://stmify.com/wp-content/uploads/2024/08/3-s-85x85.webp 85w" sizes="auto, (max-width: 146px) 100vw, 146px" />						
+												<i class="fa fa-play-circle"></i>
+					</a>
+				</div>
+					<span class="quality-tag">MQ</span>				<div class="all-content-title">
+					<a href="https://stmify.com/fm-radio/big-fm-92-7/">
+						<h2>BIG FM 92.7</h2>
+					</a>
+				</div>
+			</div>
+				</div>
+	</div>
+	
+  </div>
+</main>	
+    <!-- Footer Section -->
+        <footer>
+	        <div class="container">
+            <div class="footer-top">
+			<div class="flex-child-ft item1">        <div class="flex-child-ft item1">
+                            <h4>Follow Us</h4>
+                                        <p>Stay connected with us on social media for the latest updates and news.</p>
+                        <div class="social-icons">
+                                    <a href="https://t.me/stmify" target="blank"><i class="fab fa-telegram-plane"></i></a>
+                                                    <a href="https://x.com/StmifyNetwork" target="blank"><i class="fab fa-twitter"></i></a>
+                                                    <a href="https://www.instagram.com/stmify.network/" target="blank"><i class="fab fa-instagram"></i></a>
+                                                    <a href="https://facebook.com/stmify.network" target="blank"><i class="fab fa-facebook-f"></i></a>
+                                                    <a href="https://www.youtube.com/@StmifyNetwork" target="blank"><i class="fab fa-youtube"></i></a>
+                            </div>
+			<div class="badge">
+								
+									<div class="dmca-badge">
+						<a href="//www.dmca.com/Protection/Status.aspx?ID=c942bf85-f458-43b5-8650-9efd10fa96fc" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca-badge-w150-5x1-08.png?ID=c942bf85-f458-43b5-8650-9efd10fa96fc" alt="DMCA.com Protection Status" /></a>    <!-- Display DMCA Badge -->
+					</div>
+							</div>
+        </div>
+        </div>			<div class="flex-child-ft item2"><h4>Resources</h4><div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-1606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1606"><a href="https://stmify.com/login/">Login</a></li>
+<li id="menu-item-467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="https://stmify.com/register/">Register</a></li>
+<li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="https://stmify.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-857"><a href="https://stmify.com/requests/">Request a Channel</a></li>
+</ul></div></div>			<div class="flex-child-ft item3"><h4>Legal</h4><div class="menu-menu-2-container"><ul id="menu-menu-2" class="menu"><li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="https://stmify.com/about-us/">About Us</a></li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://stmify.com/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://stmify.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="https://stmify.com/terms-and-conditions/">Terms and Conditions</a></li>
+</ul></div></div>			<div class="flex-child-ft item4"><h4>Account</h4><div class="menu-menu-3-container"><ul id="menu-menu-3" class="menu"><li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="https://stmify.com/user-profile/">My Account</a></li>
+<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><a href="https://stmify.com/favorite-tv/">Favorite TV Channels</a></li>
+<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="https://stmify.com/favorite-radios/">Favorite Radios</a></li>
+<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="https://stmify.com/favorite-event/">Favorite Live Event</a></li>
+</ul></div></div>			<div class="flex-child-ft item5">        <div class="flex-child-ft item5">
+							<a href="https://stmify.com/" aria-label="Stmify Home">
+					<img 
+						src="https://stmify.com/wp-content/themes/stmify/assets/img/Stmify_Logo_Title_White-1.png" 
+						alt="Stmify Logo"
+						width="150" 
+						height="55" 
+						loading="lazy" 
+						decoding="async" 
+						fetchpriority="high" 
+					>
+				</a>
+			
+            <p>Welcome to Stmify, your premier destination for live TV streaming.</p>
+                            <p><i class="fas fa-envelope"></i> <a href="/cdn-cgi/l/email-protection#5a292f2a2a35282e1a292e37333c2374393537"><span class="__cf_email__" data-cfemail="88fbfdf8f8e7fafcc8fbfce5e1eef1a6ebe7e5">[email protected]</span></a></p>
+                                </div>
+        </div>            </div>
+			<div class="footer-disclaimer"><p class="note"><b><span class="red-text">N.B.</span></b> - This website is not affiliated with any television network. All content remains the property of its respective owners. We do not take responsibility for any material featured on this site. The audiovisual content available here is beyond our control or influence. Viewers are advised to exercise discretion when interpreting the information provided.</p></div>        </div>
+	
+		<div class="ft-copyright">
+		<div class="copyright">
+			<div style="float: left;">
+			  <input type="checkbox" class="checkbox" id="checkbox">
+			  <label for="checkbox" class="checkbox-label">
+				<i class="fas fa-moon"></i>
+				<i class="fas fa-sun"></i>
+				<span class="ball"></span>
+			  </label>
+			</div>
+			<div class="ft-left">
+				<p>Â© 2024-2025 Stmify TV. All Rights Reserved. Designed & Develop by <a href="https://fb.com/ild3bnath" target="blank">liton</a></p>
+			</div>
+		</div>
+		</div>
+		<!-- Chat Icon -->
+<div id="chat-toggle" style="display: none;">
+  <i class="fab fa-facebook-messenger"></i>
+</div>
+
+<!-- Chatbox Container -->
+<div id="chatbox-container">
+  <div class="chatbox-header" style="">
+    <i class="fas fa-keyboard"></i> Live Support
+  </div>
+  <div id="chatbox"></div>
+  <div class="chatbox-input">
+    <input type="text" id="username" placeholder="Username" />
+    <input type="text" id="message" placeholder="Type message..." />
+    <button onclick="sendMessage()">Send</button>
+  </div>
+    <p class="powered-by">POWERED BY STMIFY</p> <!-- Added a class here -->
+</div>
+
+<style>
+  #chat-toggle {
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+    background-color: #1ed760;
+    color: #171c24;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 9999;
+  }
+  
+  #chatbox-container {
+    position: fixed;
+    bottom: 120px;
+    right: 20px;
+    width: 300px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: none;
+    z-index: 9998;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  }
+  
+  .chatbox-header {
+	background: #1ed760;
+	color: #171c24;
+	padding: 10px;
+	border-radius: 10px 10px 0 0;
+  }
+  
+  #chatbox{
+	height: 250px;
+	overflow-y: auto;
+	padding: 10px;
+	font-size: 14px; 
+  }
+  
+  .chatbox-input {
+	padding: 10px;
+	border-top: 1px solid #ccc;  
+  }
+  
+.chatbox-input input[type="text"] {
+  border: 1px solid #ccc;
+  outline: none;
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 5px;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Username field */
+.chatbox-input #username {
+  width: 31%;
+  margin-right: 5px;
+}
+
+/* Message field */
+.chatbox-input #message {
+  width: 43%;
+  margin-right: 5px;
+}
+
+/* Focus effect */
+.chatbox-input input[type="text"]:focus {
+  border-color: #1ed760;
+  box-shadow: 0 0 5px rgba(30, 215, 96, 0.5);
+}
+
+/* Optional: Dark mode style */
+.dark .chatbox-input input[type="text"] {
+  background-color: #2a2a2a;
+  color: #fff;
+  border: 1px solid #444;
+}
+
+  
+  .chatbox-input button {
+	padding: 5px 8px;
+	background: #1ed760;
+	border: none;
+	color: #171c24;
+	cursor: pointer;
+	width: 19%;
+	border-radius: 5px; 
+  }
+  
+  .powered-by {
+    font-size: 12px; /* You can adjust this size as needed */
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .dark #chat-toggle,
+  .dark .chatbox-header,
+  .dark #chatbox,
+  .dark .chatbox-input button  {
+	color: #fff;
+  }
+  
+  .dark #chatbox-container {
+	background-color: #333;
+	border: 1px solid #3f3f3f;
+	box-shadow: 0 5px 15px rgb(253 253 253 / 30%);
+  }
+
+  .dark .chatbox-input {
+	border-top: 1px solid #3f3f3f;
+  }
+  
+@media screen and (max-width: 900px) {
+	#chat-toggle {
+		width: 45px;
+		height: 45px;
+		font-size: 20px;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#chat-toggle {
+		width: 40px;
+		height: 40px;
+		font-size: 18px;
+	}
+}
+
+</style>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+const chatToggle = document.getElementById('chat-toggle');
+const chatContainer = document.getElementById('chatbox-container');
+const chatbox = document.getElementById('chatbox');
+const usernameInput = document.getElementById('username');
+const messageInput = document.getElementById('message');
+
+// Show or hide the chatbox when the icon is clicked
+chatToggle.addEventListener('click', () => {
+  const isHidden = chatContainer.style.display === 'none' || chatContainer.style.display === '';
+
+  // Toggle chatbox visibility
+  chatContainer.style.display = isHidden ? 'block' : 'none';
+
+  // Toggle icon
+  if (isHidden) {
+    icon.classList.remove('fab', 'fa-facebook-messenger');
+    icon.classList.add('fa', 'fa-times');
+  } else {
+    icon.classList.remove('fa', 'fa-times');
+    icon.classList.add('fab', 'fa-facebook-messenger');
+  }
+});
+
+// Check if username is stored in localStorage
+if (localStorage.getItem('username')) {
+  usernameInput.value = localStorage.getItem('username');
+  usernameInput.disabled = true; // Disable the username input after the first entry
+}
+
+// Variable to track if the user is manually scrolling
+let isUserScrolling = false;
+
+// Check if the user is at the bottom of the chatbox
+function isAtBottom() {
+  return chatbox.scrollHeight - chatbox.scrollTop === chatbox.clientHeight;
+}
+
+// Event listener to detect user scroll
+chatbox.addEventListener('scroll', () => {
+  // If the user scrolls up, stop auto-scrolling
+  if (chatbox.scrollTop < chatbox.scrollHeight - chatbox.clientHeight - 10) {
+    isUserScrolling = true;
+  } else {
+    isUserScrolling = false;
+  }
+});
+
+// Fetch chat logs from the server
+function fetchChats() {
+  const xhr = new XMLHttpRequest();
+  xhr.open('POST', 'https://stmify.com/wp-content/themes/stmify/assets/chatbox.php', true);
+  xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+  xhr.onload = function () {
+    if (xhr.status === 200) {
+      const previousScrollHeight = chatbox.scrollHeight; // Get the scroll height before updating content
+
+      chatbox.innerHTML = xhr.responseText; // Update the chatbox content
+
+      // Scroll to the bottom only if the user is at the bottom or there is new content at the bottom
+      if (!isUserScrolling || chatbox.scrollHeight > previousScrollHeight) {
+        chatbox.scrollTop = chatbox.scrollHeight;
+      }
+    }
+  };
+  xhr.send('action=fetch');
+}
+
+// Send message to the server
+function sendMessage() {
+  let username = usernameInput.value.trim();
+  let message = messageInput.value.trim();
+
+  if (username === '' || message === '') return;
+
+  // Store username in localStorage if it's not already saved
+  if (!localStorage.getItem('username')) {
+    localStorage.setItem('username', username);
+  }
+
+  const xhr = new XMLHttpRequest();
+  xhr.open('POST', 'https://stmify.com/wp-content/themes/stmify/assets/chatbox.php', true);
+  xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+  xhr.onload = function () {
+    if (xhr.status === 200) {
+      messageInput.value = ''; // Clear the message input
+      fetchChats(); // Refresh the chatbox with the new message
+    }
+  };
+  xhr.send('action=send&username=' + encodeURIComponent(username) + '&message=' + encodeURIComponent(message));
+}
+
+// Auto-refresh every second
+setInterval(fetchChats, 1000);
+
+// Initial fetch of chat messages and scroll to the bottom
+setTimeout(() => {
+  fetchChats();
+  chatbox.scrollTop = chatbox.scrollHeight; // Scroll to the bottom immediately
+}, 100);
+</script> 
+			
+		<div class="scroll-to-top"><i class="fas fa-chevron-up"></i></div>
+    </footer><div class="birthday-box">
+    </div>
+
+    <!-- jQuery -->
+    <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- External JavaScript files -->
+    <script defer src="https://stmify.com/wp-content/themes/stmify/assets/js/leatest-content.js"></script>
+    <script defer src="https://stmify.com/wp-content/themes/stmify/assets/js/fm-content.js"></script>
+    <script defer src="https://stmify.com/wp-content/themes/stmify/assets/js/scroll-to-top.js"></script>
+    <script defer src="https://stmify.com/wp-content/themes/stmify/assets/js/script.js"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".lazy-bg").forEach(el => {
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const bg = entry.target.getAttribute("data-bg");
+            if (bg) {
+              entry.target.style.backgroundImage = `url('${bg}')`;
+              entry.target.removeAttribute("data-bg");
+              observer.unobserve(entry.target);
+            }
+          }
+        });
+      }, {
+        rootMargin: '0px',
+        threshold: 0.1
+      });
+      observer.observe(el);
+    });
+  });
+</script>
+
+	<script>
+		const savedMode = localStorage.getItem("mode");
+
+		// Apply the saved mode as soon as possible
+		if (savedMode === "dark") {
+			document.body.classList.add("dark");
+		} else {
+			document.body.classList.add("light");
+		}
+
+		window.addEventListener("DOMContentLoaded", () => {
+			const checkbox = document.getElementById("checkbox");
+
+			// Ensure the checkbox reflects the saved mode
+			if (savedMode === "dark") {
+				checkbox.checked = true;
+			} else {
+				checkbox.checked = false;
+			}
+
+			// Add event listener to toggle modes and save the preference
+			checkbox.addEventListener("change", () => {
+				if (checkbox.checked) {
+					document.body.classList.add("dark");
+					document.body.classList.remove("light");
+					localStorage.setItem("mode", "dark");
+				} else {
+					document.body.classList.add("light");
+					document.body.classList.remove("dark");
+					localStorage.setItem("mode", "light");
+				}
+			});
+		});
+	</script>
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/stmify\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+        <script type="text/javascript">
+          function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+              pageLanguage: 'en',
+              layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT
+            }, 'google_translate_element');
+          }
+        </script>
+        <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        <script src="https://stmify.com/wp-content/themes/stmify/assets/js/language-switcher.js" defer></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"a24ce5e7982141fa8549c97027592476","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
